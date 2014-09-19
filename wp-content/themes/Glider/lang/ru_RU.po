@@ -1,0 +1,3735 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Maestro\n"
+"POT-Creation-Date: 2013-05-31 11:59+0200\n"
+"PO-Revision-Date: 2013-06-03 18:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: Crumina team <info@crumina.net>\n"
+"Language: En_en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_x;__\n"
+"X-Poedit-Basepath: d:\\DEVELOP\\Maestro\\THEME\\\n"
+"X-Poedit-SearchPath-0: d:\\DEVELOP\\Maestro\\THEME\n"
+
+#: d:\DEVELOP\Glider/404.php:12
+msgid "<strong>404 Error </strong>- no page here"
+msgstr "<strong>ошибка 404</strong>- страница не найдена"
+
+#: d:\DEVELOP\Glider/404.php:16
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+"Мы не можем найти то, что Вы ищете. Возможно, поиск или одна из ссылок ниже "
+"могут быть полезными."
+
+#: d:\DEVELOP\Glider/404.php:20
+msgid "Look it in archives"
+msgstr "Ищите в архивах"
+
+#: d:\DEVELOP\Glider/404.php:29
+msgid "Search can be used"
+msgstr "Можно использовать поиск"
+
+#: d:\DEVELOP\Glider/404.php:35
+msgid "Most Used Categoriesd"
+msgstr "Наиболее используемые категории"
+
+#: d:\DEVELOP\Glider/404.php:44 d:\DEVELOP\Glider/posts-sidebar-sel.php:131
+#: d:\DEVELOP\Glider/templates/content-search.php:17
+#: d:\DEVELOP\Glider/templates/content.php:18
+msgid "Tags also can be used"
+msgstr "Теги также могут использоваться"
+
+#: d:\DEVELOP\Glider/functions.php:118
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#: d:\DEVELOP\Glider/functions.php:119
+msgid "Footer navigation"
+msgstr "Навигация футера"
+
+#: d:\DEVELOP\Glider/page-contacts.php:111
+#: d:\DEVELOP\Glider/page-contacts.php:156
+msgid "Leave reply"
+msgstr "Оставить сообщение"
+
+#: d:\DEVELOP\Glider/page-contacts.php:126
+msgid "You need enter email in options panel"
+msgstr "Введите email в панели опций"
+
+#: d:\DEVELOP\Glider/page-contacts.php:132
+msgid "Thank you for your message!</h2>"
+msgstr "Спасибо за сообщение!</h2>"
+
+#: d:\DEVELOP\Glider/page-contacts.php:134
+msgid "Unknown error, during message sending</h2>"
+msgstr "Произошла неизвестная ошибка при отправке сообщения</h2>"
+
+#: d:\DEVELOP\Glider/page-contacts.php:136
+msgid "Wrong check code. Please try again</h2>"
+msgstr "Неверный контрольный код. Пожалуйста, повторите попытку</h2>"
+
+#: d:\DEVELOP\Glider/page-contacts.php:143
+msgid "Enter your name"
+msgstr "Введите Ваше имя"
+
+#: d:\DEVELOP\Glider/page-contacts.php:144
+msgid "Your email"
+msgstr "Ваш email"
+
+#: d:\DEVELOP\Glider/page-contacts.php:145
+msgid "Mail subject"
+msgstr "Тема email"
+
+#: d:\DEVELOP\Glider/page-masonry.php:42 d:\DEVELOP\Glider/taxonomy.php:12
+#: d:\DEVELOP\Glider/tmp-archive-left-img.php:51
+#: d:\DEVELOP\Glider/tmp-archive-right-img.php:47
+#: d:\DEVELOP\Glider/tmp-page-masonry-2-side.php:44
+#: d:\DEVELOP\Glider/tmp-page-masonry-2.php:44
+msgid "Sorry, no results were found."
+msgstr "Извините, ничего не найдено."
+
+#: d:\DEVELOP\Glider/page-masonry.php:61
+#: d:\DEVELOP\Glider/posts-sidebar-sel.php:225
+#: d:\DEVELOP\Glider/taxonomy.php:27
+#: d:\DEVELOP\Glider/tmp-archive-left-img.php:129
+#: d:\DEVELOP\Glider/tmp-archive-right-img.php:127
+#: d:\DEVELOP\Glider/tmp-page-masonry-2-side.php:67
+#: d:\DEVELOP\Glider/tmp-page-masonry-2.php:65
+#: d:\DEVELOP\Glider/templates/comments.php:57
+#: d:\DEVELOP\Glider/templates/content-search.php:47
+#: d:\DEVELOP\Glider/templates/content.php:237
+#: d:\DEVELOP\Glider/templates/top-folio.php:33
+msgid "Older"
+msgstr "Давние"
+
+#: d:\DEVELOP\Glider/page-masonry.php:64
+#: d:\DEVELOP\Glider/posts-sidebar-sel.php:228
+#: d:\DEVELOP\Glider/taxonomy.php:30
+#: d:\DEVELOP\Glider/tmp-archive-left-img.php:132
+#: d:\DEVELOP\Glider/tmp-archive-right-img.php:130
+#: d:\DEVELOP\Glider/tmp-page-masonry-2-side.php:70
+#: d:\DEVELOP\Glider/tmp-page-masonry-2.php:68
+#: d:\DEVELOP\Glider/templates/comments.php:58
+#: d:\DEVELOP\Glider/templates/content-search.php:50
+#: d:\DEVELOP\Glider/templates/content.php:240
+#: d:\DEVELOP\Glider/templates/top-folio.php:34
+msgid "Newer"
+msgstr "Новые"
+
+#: d:\DEVELOP\Glider/portfolio-template-1.php:52
+#: d:\DEVELOP\Glider/tmp-portfolio-template-1.php:51
+#: d:\DEVELOP\Glider/tmp-portfolio-template-2.php:52
+#: d:\DEVELOP\Glider/tmp-portfolio-template-3.php:51
+#: d:\DEVELOP\Glider/tmp-portfolio-template-4-r.php:53
+#: d:\DEVELOP\Glider/tmp-portfolio-template-4.php:51
+#: d:\DEVELOP\Glider/inc/modules/recent-items/recent-items.php:62
+msgid "All"
+msgstr "Все"
+
+#: d:\DEVELOP\Glider/posts-sidebar-sel.php:121
+#: d:\DEVELOP\Glider/templates/content-search.php:7
+#: d:\DEVELOP\Glider/templates/content.php:8
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: d:\DEVELOP\Glider/posts-sidebar-sel.php:125
+#: d:\DEVELOP\Glider/templates/content-search.php:11
+#: d:\DEVELOP\Glider/templates/content.php:12
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, ничего не найдено по Вашему запросу. Пожалуйста, попробуйте снова "
+"с другими ключевыми словами."
+
+#: d:\DEVELOP\Glider/inc/actions.php:160
+msgid "Prev"
+msgstr "Пред."
+
+#: d:\DEVELOP\Glider/inc/actions.php:161
+msgid "Next"
+msgstr "След."
+
+#: d:\DEVELOP\Glider/inc/actions.php:182
+#: d:\DEVELOP\Glider/templates/top-folio.php:25
+#: d:\DEVELOP\Glider/templates/top-forum.php:60
+msgid "Home"
+msgstr "Домой"
+
+#: d:\DEVELOP\Glider/inc/actions.php:183
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Архивные страницы по категориям \"%s\""
+
+#: d:\DEVELOP\Glider/inc/actions.php:184
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Результаты поиска для \"%s\" Query"
+
+#: d:\DEVELOP\Glider/inc/actions.php:185
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Posts Tagged \"%s\""
+
+#: d:\DEVELOP\Glider/inc/actions.php:186
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Посты опубликованы %s"
+
+#: d:\DEVELOP\Glider/inc/actions.php:187
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: d:\DEVELOP\Glider/inc/actions.php:317
+msgid "Page"
+msgstr "Страница"
+
+#: d:\DEVELOP\Glider/inc/cleanup.php:260
+#: d:\DEVELOP\Glider/inc/modules/features-list/features-list.php:57
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:115
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:133
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:125
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:91
+msgid "Read more"
+msgstr "Читать больше"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:8
+msgid "Portfolios"
+msgstr "Портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:9
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:10
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:11
+msgid "Add New Portfolio item"
+msgstr "Добавить новое портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:12
+msgid "Edit Portfolio item"
+msgstr "Редактировать портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:13
+msgid "New Portfolio item"
+msgstr "Новое портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:14
+msgid "All Portfolio items"
+msgstr "Все портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:15
+msgid "View Portfolio item"
+msgstr "Просмотреть портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:16
+msgid "Search Portfolios item"
+msgstr "Искать портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:17
+msgid "No products found"
+msgstr "Портфолио не найдено"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:18
+msgid "No products found in the Trash"
+msgstr "В корзине никаких портфолио не найдено"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:39
+#, php-format
+msgid "Portfolio updated. <a href=\"%s\">View product</a>"
+msgstr "Портфолио обновлено. <a href=\"%s\">Просмотреть элемент</a>"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:40
+msgid "Custom field updated."
+msgstr "Пользовательское поле обновлено."
+
+#: d:\DEVELOP\Glider/inc/post-type.php:41
+msgid "Custom field deleted."
+msgstr "Пользовательское поле удалено."
+
+#: d:\DEVELOP\Glider/inc/post-type.php:42
+msgid "Portfolio updated."
+msgstr "Портфолио обновлено."
+
+#: d:\DEVELOP\Glider/inc/post-type.php:43
+#, php-format
+msgid "Portfolio restored to revision from %s"
+msgstr "Портфолио восстановлено для просмотра из %s"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:44
+#, php-format
+msgid "Portfolio published. <a href=\"%s\">View product</a>"
+msgstr "Портфолио опубликовано. <a href=\"%s\">Просмотреть элемент</a>"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:45
+msgid "Portfolio saved."
+msgstr "Портфолио сохранено."
+
+#: d:\DEVELOP\Glider/inc/post-type.php:46
+#, php-format
+msgid ""
+"Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr ""
+"Портфолио отправлено. <a target=\"_blank\" href=\"%s\">Просмотреть элемент</"
+"a>"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:47
+#, php-format
+msgid ""
+"Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview product</a>"
+msgstr ""
+"Портфолио созданно для: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Просмотреть элемент</a>"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:47
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:48
+#, php-format
+msgid ""
+"Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr ""
+"Эскиз портфолио обновлен. <a target=\"_blank\" href=\"%s\">Просмотреть "
+"элемент</a>"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:73
+#: d:\DEVELOP\Glider/inc/post-type.php:83
+msgid "Portfolio Categories"
+msgstr "Категории портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:74
+msgid "Portfolio Category"
+msgstr "Категория портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:75
+msgid "Search Portfolio Categories"
+msgstr "Искать категории портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:76
+msgid "All Portfolio Categories"
+msgstr "Все категории портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:77
+msgid "Parent Portfolio Category"
+msgstr "Родительсткая категория портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:78
+msgid "Parent Portfolio Category:"
+msgstr "Родительсткая категория портфолио:"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:79
+msgid "Edit Portfolio Category"
+msgstr "Редактировать категорию портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:80
+msgid "Update Portfolio Category"
+msgstr "Обновить категорию портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:81
+msgid "Add New Portfolio Category"
+msgstr "Добавить новую категорию портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:82
+msgid "New Portfolio Category"
+msgstr "Новая категория портфолио"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:101
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:102
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:103
+msgid "Add New Testimonial"
+msgstr "Добавить новый отзыв"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:104
+msgid "Edit Testimonial"
+msgstr "Редактировать отзыв"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:105
+msgid "New Testimonial"
+msgstr "Новый отзыв"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:106
+msgid "All Testimonials"
+msgstr "Все отзывы"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:107
+msgid "View Testimonial"
+msgstr "Просмотреть отзыв"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:108
+msgid "Search Testimonial"
+msgstr "Искать отзыв"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:109
+msgid "No testimonial found"
+msgstr "Не найдено ни одного отзыва"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:110
+msgid "No testimonial found in the Trash"
+msgstr "В корзине не найдено ни одного отзыва"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:132
+msgid "Clients / Partners"
+msgstr "Клиенты/ Партнеры"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:133
+msgid "Client / Partner"
+msgstr "Клиент/ Партнер"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:134
+msgid "Add New Client / Partner"
+msgstr "Добавить нового клиента/ партнера"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:135
+msgid "Edit Client / Partner"
+msgstr "Редактировать клиента/ партнера"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:136
+msgid "New Client / Partner"
+msgstr "Новый клиент/ партнер"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:137
+msgid "All Clients / Partners"
+msgstr "Все клиенты/ партнеры"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:138
+msgid "View Client / Partner"
+msgstr "Просмотреть клиента/ партнера"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:139
+msgid "Search Client / Partner"
+msgstr "Искать клиента/ партнера"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:140
+msgid "No Client / Partner found"
+msgstr "Не найдено ни одного клиента/ партнера"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:141
+msgid "No Client / Partner found in the Trash"
+msgstr "В корзине не найдено ни одного клиента/ партнера"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:163
+msgid "Features"
+msgstr "Функции"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:164
+msgid "Feature"
+msgstr "Функция"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:165
+msgid "Add New Feature"
+msgstr "Добавить новую функцию"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:166
+msgid "Edit Feature"
+msgstr "Редактировать функцию"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:167
+msgid "New Feature"
+msgstr "Новая функция"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:168
+msgid "All Features"
+msgstr "Все функции"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:169
+msgid "View Feature"
+msgstr "Просмотреть функцию"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:170
+msgid "Search Feature"
+msgstr "Искать функцию"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:171
+msgid "No Feature found"
+msgstr "Не найдено ни одной функции"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:172
+msgid "No Feature found in the Trash"
+msgstr "В корзине не найдено ни одной функции"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:195
+msgid "Galleries"
+msgstr "Галереи"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:196
+msgid "Gallery"
+msgstr "Галерея"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:197
+msgid "Add New Gallery"
+msgstr "Добавить новую галерею"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:198
+msgid "Edit Gallery"
+msgstr "Редактировать галерею"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:199
+msgid "New Gallery"
+msgstr "Новая галерея"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:200
+msgid "All Galleries"
+msgstr "Все галереи"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:201
+msgid "View Gallery"
+msgstr "Просмотреть галерею"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:202
+msgid "Search Gallery"
+msgstr "Искать галерею"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:203
+msgid "No Gallery found"
+msgstr "Не найдено ни одной галереи"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:204
+msgid "No Gallery found in the Trash"
+msgstr "В корзине не найдено ни одной галереи"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:223
+msgid "Mega menu"
+msgstr "Мега меню"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:224
+msgid "Crumina Mega Menu"
+msgstr "Crumina мега меню"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:225
+msgid "Add New Menu Item"
+msgstr "Добавить новый пункт меню"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:226
+msgid "Edit Menu Item"
+msgstr "Редактировать пункт меню"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:227
+msgid "Search Menu Items"
+msgstr "Искать пункты меню"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:228
+msgid "Sorry: Menu Item Not Found"
+msgstr "Извините: не было найдено ни одного пункта меню"
+
+#: d:\DEVELOP\Glider/inc/post-type.php:229
+msgid "Sorry: Menu Item Not Found In Trash"
+msgstr "Извините: в корзине не было найдено ни одного пункта меню"
+
+#: d:\DEVELOP\Glider/inc/widgets.php:8
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: d:\DEVELOP\Glider/inc/widgets.php:16
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+#: d:\DEVELOP\Glider/inc/widgets.php:26
+msgid "Footer column 1"
+msgstr "Колонка футера 1"
+
+#: d:\DEVELOP\Glider/inc/widgets.php:34
+msgid "Footer column 2"
+msgstr "Колонка футера 2"
+
+#: d:\DEVELOP\Glider/inc/widgets.php:42
+msgid "Footer column 3"
+msgstr "Колонка футера 3"
+
+#: d:\DEVELOP\Glider/inc/widgets.php:51
+msgid "Sidebar for shop"
+msgstr "Сайдбар для магазина"
+
+#: d:\DEVELOP\Glider/inc/category_extend/crum-cat-tax.php:41
+msgid "Category icon"
+msgstr "Иконка категории"
+
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:250
+msgid "Delete this image"
+msgstr "Удалить это изображение"
+
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:250
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:883
+msgid "Delete"
+msgstr "Удалить"
+
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr "Не возможно удалить файл. Произошла ошибка."
+
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:582
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:629
+#: d:\DEVELOP\Glider/options/options/fields/multi_text/field_multi_text.php:31
+#: d:\DEVELOP\Glider/options/options/fields/multi_text/field_multi_text.php:35
+#: d:\DEVELOP\Glider/options/options/fields/multi_text/field_multi_text.php:38
+#: d:\DEVELOP\Glider/options/options/fields/social/field_social.php:35
+#: d:\DEVELOP\Glider/options/options/fields/social/field_social.php:43
+#: d:\DEVELOP\Glider/options/options/fields/social/field_social.php:47
+msgid "Remove"
+msgstr "Удалить"
+
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:595
+msgid "Add"
+msgstr "Добавить"
+
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:736
+#: d:\DEVELOP\Glider/inc/lib/metabox/init.php:210
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:169
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:185
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:201
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:218
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:165
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:181
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:197
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:213
+#: d:\DEVELOP\Glider/inc/modules/features-block/features-block.php:107
+#: d:\DEVELOP\Glider/inc/modules/features-list/features-list.php:122
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:315
+#: d:\DEVELOP\Glider/options/options/fields/icon/field_icon.php:28
+msgid "Add Icon"
+msgstr "Добавить иконку"
+
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:879
+msgid "Uploaded files"
+msgstr "Загруженные файлы"
+
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:890
+msgid "Upload new files"
+msgstr "Загрузить новые файлы"
+
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:896
+msgid "Add more files"
+msgstr "Добавить больше файлов"
+
+#: d:\DEVELOP\Glider/inc/category_extend/tax-meta-class/tax-meta-class.php:948
+msgid "Select a color"
+msgstr "Выбрать цвет"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/custom-sidebar.php:25
+msgid "Select custom sidebar"
+msgstr "Выбрать пользовательский сайдбар"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/features-boxes.php:26
+msgid "Feature box options"
+msgstr "Опции блока характеристик"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/features-boxes.php:34
+msgid "Icon for features box"
+msgstr "Иконка для блока характеристик"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:25
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:67
+msgid "Boxed Page background options"
+msgstr "Опции фона для страницы в рамке"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:32
+msgid "Background color"
+msgstr "Цвет фона сайта"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:33
+msgid "Color of body of page (page will be set to boxed)"
+msgstr "Цвет фона страницы (страница будет установлена в рамке)"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:39
+msgid "Fixed backrgound"
+msgstr "Зафиксировать фон сайта"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:40
+msgid "Check if you want to bg will be fixed on page scroll"
+msgstr ""
+"Отметьте, если хотите, чтобы фон был зафиксирован при прокрутке страницы"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:45
+msgid "Background image"
+msgstr "Фоновое изображение"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:46
+msgid "Upload an image or enter an URL."
+msgstr "Загрузите Ваше собственное изображение или введите URL"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:51
+#: d:\DEVELOP\Glider/options/options.php:1056
+msgid "Background image repeat"
+msgstr "Повтор фонового изображения"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:75
+msgid "Member profession"
+msgstr "Профессия члена команды  "
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:76
+msgid "Text that will be displayed under name"
+msgstr "Текст, который будет отображаться под именем"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:81
+msgid "Small description"
+msgstr "Краткое описание"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:82
+msgid "Small escription for Contacts page"
+msgstr "Небольшое описание для страницы контактов"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:91
+msgid "Additional Text fields"
+msgstr "Дополнительные текстовые поля"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:99
+msgid "Text block 1"
+msgstr "Текстовый блок 1"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/page-boxes.php:113
+msgid "Text block 2"
+msgstr "Текстовый блок 2"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/portfolio-boxes.php:26
+msgid "Portfolio Video"
+msgstr "Видео портфолио"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/portfolio-boxes.php:33
+msgid "YouTube video ID"
+msgstr "YouTube видео ID"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/portfolio-boxes.php:39
+msgid "Vimeo video ID"
+msgstr "Vimeo видео ID"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/portfolio-boxes.php:45
+msgid "Self hosted video file in mp4 format"
+msgstr "Загружаемое видео в формате mp4 "
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/portfolio-boxes.php:51
+msgid "Self hosted video file in webM format"
+msgstr "Загружаемое видео в формате webM"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/testimonial-boxes.php:26
+msgid "Testimonial info"
+msgstr "Дополнительная информация"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/testimonial-boxes.php:33
+msgid "Author of testimonial"
+msgstr "Автор отзыва"
+
+#: d:\DEVELOP\Glider/inc/custom_metabox/testimonial-boxes.php:39
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:148
+msgid "Author additional"
+msgstr "Дополнительная информация об авторе"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:164
+#: d:\DEVELOP\Glider/inc/lib/plugins.php:119
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины "
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:165
+#: d:\DEVELOP\Glider/inc/lib/plugins.php:120
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:166
+#: d:\DEVELOP\Glider/inc/lib/plugins.php:121
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Что-то пошло не так"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:178
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:490
+#: d:\DEVELOP\Glider/inc/lib/plugins.php:133
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке необходимых плагинов"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:179
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1846
+#: d:\DEVELOP\Glider/inc/lib/plugins.php:134
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:517
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Вернуться к консоли"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "Следующий плагин был успешно активирован: %s."
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Проигнорировать это уведомление"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1091
+msgid "External Link"
+msgstr "Внешняя ссылка"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Личный репозиторий"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный "
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress "
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1106
+msgid "Required"
+msgstr " (требуется)"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Рекомендованный"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован "
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Нет плагинов для установки или активации. <a href=\"%1$s\" title=\"Return to "
+"the Dashboard\">Return to the Dashboard</a>"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Плагин"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1298
+msgid "Source"
+msgstr "Источник"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1299
+msgid "Type"
+msgstr "Тип"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1300
+msgid "Status"
+msgstr "Статус"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1318
+msgid "Install"
+msgstr "Установить"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1319
+msgid "Activate"
+msgstr "Активировать"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Пакет установки недоступен"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загрузка пакета установки из <span class=\"code\">%s</span>&#8230;"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка пакета&#8230;"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Установка плагина не удалась "
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Плагин установлен успешно"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процесс установки и активации начался. Это может занять некоторое время, "
+"пожалуйста, подождите."
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирван успешно."
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1956
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Отображать детали"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1956
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были успешно завершены"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс установки начался. Это может занять некоторое время, пожалуйста, "
+"подождите."
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Во время установки произошла ошибка %1$s: <strong>%2$s</strong>."
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Все установки были успешно завершены"
+
+#: d:\DEVELOP\Glider/inc/lib/plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: d:\DEVELOP\Glider/inc/lib/plugins.php:122
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина"
+
+#: d:\DEVELOP\Glider/inc/lib/plugins.php:135
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и активированы успешно. %s"
+
+#: d:\DEVELOP\Glider/inc/lib/metabox/init.php:650
+msgid "Please Try Again"
+msgstr "Пожалуйста, попробуйте снова"
+
+#: d:\DEVELOP\Glider/inc/lib/metabox/init.php:667
+msgid "Remove Embed"
+msgstr "Удалить "
+
+#: d:\DEVELOP\Glider/inc/lib/metabox/init.php:673
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Не найдены oEmbed результаты для %s. Дополнительная информация на"
+
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:9
+msgid "Block with author info / pic"
+msgstr "Блок с информацией / изображением автора"
+
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:120
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:157
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:152
+#: d:\DEVELOP\Glider/inc/modules/block-desc/block-desc.php:78
+#: d:\DEVELOP\Glider/inc/modules/call-to-action/call-to-action.php:77
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:205
+#: d:\DEVELOP\Glider/inc/modules/features-block/features-block.php:78
+#: d:\DEVELOP\Glider/inc/modules/features-list/features-list.php:106
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:122
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:251
+#: d:\DEVELOP\Glider/inc/modules/map/map.php:116
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:217
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:202
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:165
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:171
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:161
+#: d:\DEVELOP\Glider/inc/modules/promo-block/promo-block.php:64
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:136
+#: d:\DEVELOP\Glider/inc/modules/recent-items/recent-items.php:218
+#: d:\DEVELOP\Glider/inc/modules/shortcode/shortcode.php:109
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:130
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:144
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:121
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:180
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:27
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:163
+#: d:\DEVELOP\Glider/inc/widgets/widget-facebook.php:94
+#: d:\DEVELOP\Glider/inc/widgets/widget-flickr.php:98
+#: d:\DEVELOP\Glider/inc/widgets/widget-gallery.php:77
+#: d:\DEVELOP\Glider/inc/widgets/widget-recent.php:154
+#: d:\DEVELOP\Glider/inc/widgets/widget-search.php:106
+#: d:\DEVELOP\Glider/inc/widgets/widget-styled-list.php:67
+#: d:\DEVELOP\Glider/inc/widgets/widget-subscribe.php:100
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:139
+#: d:\DEVELOP\Glider/inc/widgets/widget-tags.php:75
+#: d:\DEVELOP\Glider/inc/widgets/widget-text.php:59
+#: d:\DEVELOP\Glider/inc/widgets/widget-video.php:27
+#: d:\DEVELOP\Glider/inc/widgets/widget-video.php:158
+#: d:\DEVELOP\Glider/inc/widgets/widget_categories.php:98
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:124
+#: d:\DEVELOP\Glider/inc/modules/block-desc/block-desc.php:82
+#: d:\DEVELOP\Glider/inc/modules/features-block/features-block.php:83
+#: d:\DEVELOP\Glider/inc/modules/features-list/features-list.php:110
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:131
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:145
+msgid "Text"
+msgstr "Текст"
+
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:129
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:210
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:255
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:229
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:210
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:170
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:179
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:169
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:156
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:192
+msgid "Link to full page"
+msgstr "Ссылка к полной странице"
+
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:134
+#: d:\DEVELOP\Glider/inc/modules/block-desc/block-desc.php:91
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:234
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:215
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:184
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:174
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:161
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:197
+msgid "Link label"
+msgstr "Link label"
+
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:139
+msgid "Image"
+msgstr "Изображение"
+
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:141
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:144
+msgid "Author name"
+msgstr "Имя автора"
+
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:152
+#: d:\DEVELOP\Glider/inc/modules/about-author/about-author.php:156
+msgid "Additional link"
+msgstr "Дополнительная ссылка"
+
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:162
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:178
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:194
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:211
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:158
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:174
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:190
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:206
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:126
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:139
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:152
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:165
+msgid "Section Title:"
+msgstr "Секция заголовка:"
+
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:167
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:183
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:199
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:216
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:163
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:179
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:195
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:211
+#: d:\DEVELOP\Glider/inc/modules/call-to-action/call-to-action.php:100
+#: d:\DEVELOP\Glider/inc/modules/features-block/features-block.php:105
+#: d:\DEVELOP\Glider/inc/modules/features-list/features-list.php:120
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:313
+msgid "Type Icon name"
+msgstr "Введите название иконки"
+
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:173
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:189
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:206
+#: d:\DEVELOP\Glider/inc/modules/accordion/accordion.php:223
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:169
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:185
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:201
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:217
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:135
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:148
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:161
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:175
+msgid "Content:"
+msgstr "Содержание:"
+
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:11
+msgid "Box: Vertical tab"
+msgstr "Блок: Вертикальный таб"
+
+#: d:\DEVELOP\Glider/inc/modules/accordion-v/accordion-v.php:12
+#: d:\DEVELOP\Glider/options/options.php:1470
+msgid "Vertical tabs block"
+msgstr "Блок вертикальных табов"
+
+#: d:\DEVELOP\Glider/inc/modules/block-desc/block-desc.php:20
+msgid "Text block with button"
+msgstr "Текстовый блок с кнопкой"
+
+#: d:\DEVELOP\Glider/inc/modules/block-desc/block-desc.php:87
+#: d:\DEVELOP\Glider/inc/modules/features-block/features-block.php:88
+#: d:\DEVELOP\Glider/inc/modules/features-list/features-list.php:115
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:126
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:140
+#: d:\DEVELOP\Glider/inc/modules/recent-items/recent-items.php:222
+msgid "Link"
+msgstr "Ссылка"
+
+#: d:\DEVELOP\Glider/inc/modules/call-to-action/call-to-action.php:79
+#: d:\DEVELOP\Glider/inc/modules/promo-block/promo-block.php:66
+msgid "Title Tag:"
+msgstr "Title Tag:"
+
+#: d:\DEVELOP\Glider/inc/modules/call-to-action/call-to-action.php:86
+#: d:\DEVELOP\Glider/inc/modules/promo-block/promo-block.php:68
+msgid "Description:"
+msgstr "Описание:"
+
+#: d:\DEVELOP\Glider/inc/modules/call-to-action/call-to-action.php:89
+#: d:\DEVELOP\Glider/inc/modules/promo-block/promo-block.php:71
+msgid "Alignment:"
+msgstr "Выравнивание:"
+
+#: d:\DEVELOP\Glider/inc/modules/call-to-action/call-to-action.php:96
+msgid "Button Label:"
+msgstr "Button Label:"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:20
+msgid "Boxes from \"Features\" section"
+msgstr "Блоки из секции \"Свойства\""
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:34
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:33
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:42
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:42
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:31
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:31
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:42
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:32
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:42
+msgid "Latest articles"
+msgstr "Последние публикации"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:215
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:180
+msgid "Link for details page"
+msgstr "Ссылка на страницу с подробностями"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:218
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:183
+msgid "Yes"
+msgstr "Да"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:219
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:184
+msgid "No"
+msgstr "Нет"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:225
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:136
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:279
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:256
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:237
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:193
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:189
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:150
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:185
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:203
+msgid "Order posts"
+msgstr "Порядок постов"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:228
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:139
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:282
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:259
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:240
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:196
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:192
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:153
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:188
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:206
+msgid "Descending"
+msgstr "По убыванию"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:229
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:140
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:283
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:260
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:241
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:197
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:193
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:154
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:189
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:207
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:234
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:145
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:288
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:265
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:246
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:202
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:189
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:159
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:194
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:212
+msgid "Order posts by"
+msgstr "Упорядочить посты по"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:237
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:148
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:291
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:268
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:249
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:205
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:192
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:162
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:197
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:215
+msgid "No order"
+msgstr "Без очередности"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:238
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:149
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:292
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:269
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:250
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:206
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:193
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:163
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:198
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:216
+msgid "Order by post id"
+msgstr "Упорядочить по id поста"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:239
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:150
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:293
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:270
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:251
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:207
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:194
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:164
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:199
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:217
+msgid "Order by title"
+msgstr "Упорядочить по заголовку"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:240
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:151
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:294
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:271
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:252
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:208
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:195
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:165
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:200
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:218
+msgid "Order by post name (post slug)"
+msgstr "Упорядочить по названию поста (по слагу поста)"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:241
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:152
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:295
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:272
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:253
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:209
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:196
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:166
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:201
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:219
+msgid "Order by date"
+msgstr "Упорядочить по дате"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:242
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:153
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:296
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:273
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:254
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:210
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:197
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:167
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:202
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:220
+msgid "Order by last modified date"
+msgstr "Упорядочить по дате последнего редактирования"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:243
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:154
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:297
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:275
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:256
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:212
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:199
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:169
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:204
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:222
+msgid "Order by number of comments"
+msgstr "Упорядочить по количеству комментариев"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:249
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:262
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:198
+msgid "Number of columns"
+msgstr "Количество колонок"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:252
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:265
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:201
+msgid "1 column"
+msgstr "1 колонка"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:253
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:266
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:202
+msgid "2 columns"
+msgstr "2 колонка"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:254
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:267
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:203
+msgid "3 columns"
+msgstr "3 колонка"
+
+#: d:\DEVELOP\Glider/inc/modules/features/features.php:255
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:268
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:204
+msgid "4 columns"
+msgstr "4 колонка"
+
+#: d:\DEVELOP\Glider/inc/modules/features-block/features-block.php:11
+msgid "Block with icon"
+msgstr "Блок с иконкой"
+
+#: d:\DEVELOP\Glider/inc/modules/features-block/features-block.php:93
+msgid "Text alignment"
+msgstr "Выравнивание текста"
+
+#: d:\DEVELOP\Glider/inc/modules/features-block/features-block.php:97
+msgid "Align left"
+msgstr "Выравнивание по левому краю"
+
+#: d:\DEVELOP\Glider/inc/modules/features-block/features-block.php:98
+msgid "Align center"
+msgstr "Выравнивание по центру"
+
+#: d:\DEVELOP\Glider/inc/modules/features-list/features-list.php:7
+msgid "Box: Features list"
+msgstr "Блок: Список характеристик"
+
+#: d:\DEVELOP\Glider/inc/modules/features-list/features-list.php:8
+msgid "every line - list element"
+msgstr "каждая линия - элемент списка"
+
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:12
+msgid "Box: Galleries"
+msgstr "Блок: Галереи"
+
+#: d:\DEVELOP\Glider/inc/modules/galleries/galleries.php:13
+msgid "Display Galleries thumbnails"
+msgstr "Отображать миниатюры галерей"
+
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:20
+msgid "Box: 4 posts from category"
+msgstr "Блок: 4 поста из категории"
+
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:21
+msgid "Posts from some category"
+msgstr "Отображать посты из некоторых категорий"
+
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:260
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:239
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:220
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:176
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:166
+msgid "Select category"
+msgstr "Выбрать категорию"
+
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:303
+msgid "Select news alignment"
+msgstr "Выбрать выравнивание новостей"
+
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:306
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: d:\DEVELOP\Glider/inc/modules/last-3-posts/last-3-posts.php:307
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: d:\DEVELOP\Glider/inc/modules/map/map.php:9
+msgid "Box: Google Map"
+msgstr "Блок: Google map"
+
+#: d:\DEVELOP\Glider/inc/modules/map/map.php:10
+msgid "Display address on map"
+msgstr "Отображать адрес на карте"
+
+#: d:\DEVELOP\Glider/inc/modules/map/map.php:42
+msgid "On map"
+msgstr "На карте"
+
+#: d:\DEVELOP\Glider/inc/modules/map/map.php:120
+msgid "Address"
+msgstr "Адрес"
+
+#: d:\DEVELOP\Glider/inc/modules/map/map.php:124
+msgid "Height (in px)"
+msgstr "Высота(px):"
+
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:20
+msgid "Display news/articles from some category"
+msgstr "Отображать новости/ публикации из некоторый категорий"
+
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:221
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:206
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:175
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:165
+#: d:\DEVELOP\Glider/inc/modules/shortcode/shortcode.php:113
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:148
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:184
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:32
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:167
+#: d:\DEVELOP\Glider/inc/widgets/widget-flickr.php:102
+#: d:\DEVELOP\Glider/inc/widgets/widget-gallery.php:81
+#: d:\DEVELOP\Glider/inc/widgets/widget-search.php:110
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:143
+#: d:\DEVELOP\Glider/inc/widgets/widget-text.php:63
+#: d:\DEVELOP\Glider/inc/widgets/widget-video.php:32
+msgid "Subtitle:"
+msgstr "Подзаголовок:"
+
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:225
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:152
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:188
+msgid "Number of posts"
+msgstr "Количество постов"
+
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:274
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:255
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:211
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:198
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:168
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:203
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:221
+msgid "Random order"
+msgstr "Произвольный порядок"
+
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:281
+msgid "Horizontal slide"
+msgstr "Горизонтально"
+
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:284
+msgid "Enable"
+msgstr "активировать"
+
+#: d:\DEVELOP\Glider/inc/modules/news-cat/news-cat.php:285
+msgid "Disable"
+msgstr "деактивировать"
+
+#: d:\DEVELOP\Glider/inc/modules/news-row/news-row.php:20
+msgid "Display postsrow from some category"
+msgstr "Отображать посты из некоторых категорий"
+
+#: d:\DEVELOP\Glider/inc/modules/news-row-desc/news-row-desc.php:9
+msgid "Post row with desc."
+msgstr "Ряд постов с описанием"
+
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:9
+msgid "Display Gallery thumbnails"
+msgstr "Отображать миниатюры галереи"
+
+#: d:\DEVELOP\Glider/inc/modules/one-gallery/one-gallery.php:211
+msgid "Select gallery"
+msgstr "Выбрать галерею"
+
+#: d:\DEVELOP\Glider/inc/modules/partners-logo/partners-logo.php:20
+msgid "Display clients / partners logo"
+msgstr "Отображать логотип клиентов/ партнеров"
+
+#: d:\DEVELOP\Glider/inc/modules/promo-block/promo-block.php:78
+msgid "Icon name:"
+msgstr "Название иконки"
+
+#: d:\DEVELOP\Glider/inc/modules/promo-block/promo-block.php:81
+msgid "Icon Size:"
+msgstr "Размер иконки"
+
+#: d:\DEVELOP\Glider/inc/modules/recent-desc/recent-desc.php:17
+msgid "3 recent portfolio items + description "
+msgstr "3 элемента портфолио + описание"
+
+#: d:\DEVELOP\Glider/inc/modules/recent-items/recent-items.php:11
+msgid "Box: Recent from portfolio"
+msgstr "Блок: Последние из портфолио"
+
+#: d:\DEVELOP\Glider/inc/modules/recent-items/recent-items.php:12
+msgid "Must be placed in 1 column row "
+msgstr "Нужно поставить в 1 колонку/ ряд"
+
+#: d:\DEVELOP\Glider/inc/modules/recent-items/recent-items.php:28
+#: d:\DEVELOP\Glider/options/options.php:940
+msgid "Recent items"
+msgstr "Последние публикации"
+
+#: d:\DEVELOP\Glider/inc/modules/shortcode/shortcode.php:20
+msgid "Any shortcode can be added here"
+msgstr "Сюда можно добавить любые шорткоды"
+
+#: d:\DEVELOP\Glider/inc/modules/shortcode/shortcode.php:42
+msgid "Some shortcode"
+msgstr "Шорткод"
+
+#: d:\DEVELOP\Glider/inc/modules/shortcode/shortcode.php:118
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:9
+msgid "My slills widget"
+msgstr "Виджет \"Мои способности\""
+
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:99
+msgid "My skills"
+msgstr "My skills"
+
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:134
+#: d:\DEVELOP\Glider/inc/widgets/widget-styled-list.php:71
+msgid "Subitle:"
+msgstr "Подзаголовок"
+
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:139
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:149
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:158
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:167
+msgid "Skill"
+msgstr "Skill"
+
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:144
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:153
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:162
+#: d:\DEVELOP\Glider/inc/modules/skills/skills.php:171
+msgid "Skill percent"
+msgstr "Skill percent"
+
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:10
+msgid "Display sticky articles from some category"
+msgstr "Отображать прикрепленные новости из нескольких категорий"
+
+#: d:\DEVELOP\Glider/inc/modules/sticky-posts/sticky-posts.php:86
+msgid "Continue"
+msgstr "Продолжить"
+
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:130
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:143
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:156
+#: d:\DEVELOP\Glider/inc/modules/tabs/tabs.php:169
+msgid "Section icon:"
+msgstr "Иконка секции"
+
+#: d:\DEVELOP\Glider/inc/modules/testemonials/testemonials.php:20
+msgid "Display clients / partners testimonials"
+msgstr "Отображать отзывы клиентов/ партнеров"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:13
+msgid "Include audio with oEmbed"
+msgstr "Добавить аудио, используя oEmbed"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:39
+#: d:\DEVELOP\Glider/inc/widgets/widget-video.php:39
+msgid "Embed URL"
+msgstr "Embed URL"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:44
+#: d:\DEVELOP\Glider/inc/widgets/widget-video.php:44
+msgid "Embed width in pixels"
+msgstr "Ширина встроенного видео в пикселях"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:49
+#: d:\DEVELOP\Glider/inc/widgets/widget-video.php:49
+msgid "Description"
+msgstr "Описание"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:171
+#: d:\DEVELOP\Glider/inc/widgets/widget-video.php:162
+msgid "Embed URL:"
+msgstr "URL встроенного видео:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:175
+#: d:\DEVELOP\Glider/inc/widgets/widget-video.php:166
+msgid "Embed width:"
+msgstr "Ширина встроенного видео:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-audio.php:179
+#: d:\DEVELOP\Glider/inc/widgets/widget-video.php:170
+msgid "Embed Description:"
+msgstr "Описание встроенного видео:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-count.php:40
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-count.php:40
+msgid "Subscribers"
+msgstr "Подписчики"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-count.php:41
+msgid "To RSS Feed"
+msgstr "На RSS ленту"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-count.php:50
+#: d:\DEVELOP\Glider/inc/widgets/widget-count.php:70
+#: d:\DEVELOP\Glider/inc/widgets/widget-count.php:89
+msgid "followers"
+msgstr "Читатели"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-count.php:60
+msgid "fans"
+msgstr "фаны"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-count.php:79
+msgid "subscribers"
+msgstr "подписчики"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-facebook.php:12
+msgid "Facebook Social widget"
+msgstr "Facebook виджет"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-facebook.php:27
+#: d:\DEVELOP\Glider/options/options.php:1454
+msgid "Facebook widget"
+msgstr "Facebook widget"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-facebook.php:100
+msgid "Facebook Name: ( facebook.com/ * Type into field * )"
+msgstr "Facebook Name: ( facebook.com/ * Type into field * )"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-facebook.php:107
+#: d:\DEVELOP\Glider/inc/widgets/widget-gallery.php:87
+msgid "Width(px):"
+msgstr "Ширина(px):"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-facebook.php:116
+msgid "Color scheme:"
+msgstr "Цветовая схема:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-facebook.php:131
+msgid "Show stream:"
+msgstr "Отображать поток:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-facebook.php:145
+msgid "Show faces:"
+msgstr "Отображать лица:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-facebook.php:159
+msgid "Show header:"
+msgstr "Отображать хедер:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-flickr.php:7
+msgid "Displays your Flickr feed"
+msgstr "Отображать Ваш Flickr feed "
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-flickr.php:107
+msgid "ID:"
+msgstr "ID:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-flickr.php:112
+msgid "Number of photos:"
+msgstr "Количество фотографий:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-gallery.php:20
+msgid "Random work from portfolio"
+msgstr "Портфолио в произвольном порядке"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-gallery.php:36
+msgid "Random work"
+msgstr "Произвольный порядок"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-gallery.php:94
+msgid "Height(px):"
+msgstr "Высота(px):"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-gallery.php:103
+msgid "Images number:"
+msgstr "Количество изображений:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-recent.php:12
+msgid "Advanced recent posts widget."
+msgstr "Виджет \"Недавние записи\" расширенный"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-recent.php:158
+msgid "Limit:"
+msgstr "Лимит:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-recent.php:166
+msgid "Display date?"
+msgstr "Отображать дату?"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-recent.php:170
+msgid "Display excerpt?"
+msgstr "Отображать отрывок?"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-recent.php:174
+msgid "Excerpt length:"
+msgstr "Длина отрывка"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-recent.php:179
+msgid "Display thumbnail?"
+msgstr "Отображать миниатюры?"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-recent.php:184
+msgid "Limit to category: "
+msgstr "Лимитировать по категории"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-recent.php:185
+msgid "All categories"
+msgstr "Все категории"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-recent.php:188
+msgid "OR Choose the Post Type: "
+msgstr "Или выберите тип поста"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-search.php:9
+msgid "Search widget with subtitle"
+msgstr "Поисковый виджет с подзаголовком"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-search.php:64
+#: d:\DEVELOP\Glider/templates/searchform.php:2
+msgid "Search for:"
+msgstr "Искать:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-search.php:115
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-styled-list.php:9
+msgid "List of "
+msgstr "Список"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-styled-list.php:56
+msgid "Styled list"
+msgstr "Styled list"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-styled-list.php:76
+msgid "Items wrapped in: li HTML tags"
+msgstr "Единицы встроенны в: li HTML теги"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-subscribe.php:15
+msgid ""
+"Displays a form for users to subscribe to your Feedburner feed via email"
+msgstr ""
+"Отображает форму для подписки пользователей к вашему Feedburner по email"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-subscribe.php:46
+msgid "Join Us"
+msgstr "Присоединитесь к нам"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-subscribe.php:55
+msgid ""
+"By subscribing to our mailing list you will always be update with the latest "
+"news from us."
+msgstr ""
+"Подписываясь к нашей рассылке вы всегда будете получать самые свежие новости"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-subscribe.php:91
+msgid "Subscribe Via Email"
+msgstr "Подписаться по Email"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-subscribe.php:96
+msgid "Enter your email address"
+msgstr "Введите ваш email "
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-subscribe.php:104
+msgid "Feedburner Feed Name:"
+msgstr "Название Feedburner ленты:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-subscribe.php:108
+msgid "Textbox Label:"
+msgstr "Лейбл в текстовом блоке"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:14
+msgid "Tabbed widget containing Popular posts, and Recent Posts"
+msgstr "Tabbed widget, включающий популярные и последние публикации"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:45
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:52
+msgid "Popular"
+msgstr "Популярные"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:46
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:51
+msgid "Recent"
+msgstr "Последние"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:47
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:53
+#: d:\DEVELOP\Glider/templates/dopinfo.php:9
+#: d:\DEVELOP\Glider/templates/entry-meta.php:11
+msgid "Comments"
+msgstr "Комментарии"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:147
+msgid "Number of posts:"
+msgstr "Количество постов:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:151
+msgid "Popular limit (days):"
+msgstr "Популярности публикаций (дни):"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:156
+msgid "Select header format:"
+msgstr "Выбрать формат хедера:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:158
+msgid "Popular-Recent"
+msgstr "Популярные-Последние"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:159
+msgid "Recent-Popular"
+msgstr "Последние-Популярные"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:164
+msgid "Display date or thumb:"
+msgstr "Отображать дату или миниатюру:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:166
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tabs.php:167
+msgid "Date"
+msgstr "Дата"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tags.php:10
+msgid "Displays tags list"
+msgstr "Отображает список тегов"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tags.php:24
+msgid "Text block"
+msgstr "Текстовый блок"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tags.php:79
+msgid "Number tags:"
+msgstr "Цифровые теги:"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-text.php:8
+msgid "Cr: Text block"
+msgstr "Cr: Текстовый блок"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-text.php:9
+msgid "Text block with subtitle"
+msgstr "Текстовый блок с подзаголовком"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tweets.php:16
+msgid "Displays your latest Tweets"
+msgstr "Отображать Ваши последние твиты"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-tweets.php:174
+msgid "Follow me"
+msgstr "Присоединяйтесь ко мне"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-vcard.php:17
+msgid "Use this widget to add a vCard"
+msgstr "Используйте этот виджет для добавления vCard"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-vcard.php:19
+msgid "Theme: vCard"
+msgstr "Тема: vCard"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-vcard.php:46
+msgid "vCard"
+msgstr "vCard"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-vcard.php:73
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-vcard.php:74
+msgid "Web"
+msgstr "Web"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-vcard.php:75
+msgid "Twitter"
+msgstr "Twitter"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget-video.php:13
+msgid "Include video with oEmbed"
+msgstr "Добавить видео, используя oEmbed"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget_categories.php:8
+msgid "A list of categories"
+msgstr "Список категорий"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget_categories.php:9
+msgid "Cr: Categories with icons"
+msgstr "Cr: Категории с иконками"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget_categories.php:15
+msgid "Blog categories"
+msgstr "Категории блога"
+
+#: d:\DEVELOP\Glider/inc/widgets/widget_categories.php:111
+msgid "Select Taxonomy"
+msgstr "Выбрать таксономию"
+
+#: d:\DEVELOP\Glider/options/options.php:100
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+"<p>Этот текст будет отображаться над панелью опций. Это необязательно, но "
+"больше информации - всегда лучше! Поле для вступительного текста принимает  "
+"все HTML коды</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:103
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+"<p>Этот текст будет отображаться под панелью опций. Это необязательно, но "
+"больше информации - всегда лучше! Поле для текста в футера принимает  все "
+"HTML коды</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:111
+msgid "Follow me on Twitter"
+msgstr "Присоединяйтесь к нам в Твиттере"
+
+#: d:\DEVELOP\Glider/options/options.php:116
+msgid "Find me on LinkedIn"
+msgstr "Найдите нас в LinkedIn"
+
+#: d:\DEVELOP\Glider/options/options.php:143
+#: d:\DEVELOP\Glider/options/options.php:147
+msgid "Options"
+msgstr "Опции"
+
+#: d:\DEVELOP\Glider/options/options.php:190
+msgid "Theme Information 1"
+msgstr "Информация о теме 1"
+
+#: d:\DEVELOP\Glider/options/options.php:191
+#: d:\DEVELOP\Glider/options/options.php:196
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<p>Это содержимое таба, HTML разрешен.</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:195
+msgid "Theme Information 2"
+msgstr "Информация о теме 2"
+
+#: d:\DEVELOP\Glider/options/options.php:200
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p>Это содержимое сайдбара, HTML разрешен.</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:214
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: d:\DEVELOP\Glider/options/options.php:215
+msgid ""
+"<p class=\"description\">This is the description field for this section. "
+"HTML is allowed</p>"
+msgstr ""
+"<p class=\"description\">Поля для описания этой секции. HTML позволяется</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:230
+msgid "Main Options"
+msgstr "Главные опции"
+
+#: d:\DEVELOP\Glider/options/options.php:231
+msgid "<p class=\"description\">Main options of site</p>"
+msgstr "<p class=\"description\">Главные опции сайта</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:240
+msgid "Favicon"
+msgstr "Фавикон"
+
+#: d:\DEVELOP\Glider/options/options.php:241
+msgid ""
+"Select a 16px X 16px image from the file location on your computer and "
+"upload it as a favicon of your site"
+msgstr ""
+"Выберите изображение размером 16пкс х 16пкс в Вашем компьютере и загрузите "
+"его как фавикон вашего сайта"
+
+#: d:\DEVELOP\Glider/options/options.php:246
+msgid "Header Logotype image"
+msgstr "Изображение логотипа хедера"
+
+#: d:\DEVELOP\Glider/options/options.php:247
+msgid ""
+"Select an image from the file location on your computer and upload it as a "
+"header logotype"
+msgstr ""
+"Выберите изображение на Вашем компьютере и загрузите его как логотип хедера"
+
+#: d:\DEVELOP\Glider/options/options.php:253
+msgid "Logotype text"
+msgstr "Текст логотипа"
+
+#: d:\DEVELOP\Glider/options/options.php:255
+msgid "If you do not use logo image - you can type text here"
+msgstr ""
+"Если Вы не используете изображения для логотип, Вы можете ввести текст здесь"
+
+#: d:\DEVELOP\Glider/options/options.php:262
+msgid "Logotype style"
+msgstr "Стиль логотипа"
+
+#: d:\DEVELOP\Glider/options/options.php:264
+msgid "Select what type of logo you want."
+msgstr "Выберите тип логотипа."
+
+#: d:\DEVELOP\Glider/options/options.php:271
+msgid "Top block with address"
+msgstr "Блок для адреса"
+
+#: d:\DEVELOP\Glider/options/options.php:273
+msgid "Enable or disable address block"
+msgstr "Включить или выключить блок для адреса"
+
+#: d:\DEVELOP\Glider/options/options.php:280
+msgid "Top adress panel"
+msgstr "Верхняя адресная панель"
+
+#: d:\DEVELOP\Glider/options/options.php:281
+msgid "Please do not use single qoute here"
+msgstr "Пожалуйста, не используйте здесь одинарные кавычки "
+
+#: d:\DEVELOP\Glider/options/options.php:282
+msgid "This is top adress info block."
+msgstr "Это верхний адресный блок."
+
+#: d:\DEVELOP\Glider/options/options.php:289
+msgid "Language selection shortcode"
+msgstr "Шорткод выбора языка"
+
+#: d:\DEVELOP\Glider/options/options.php:291
+msgid ""
+"You can type shortcode of language select tht your translating plugin provide"
+msgstr ""
+"Вы можете ввести шорткод выбранного языка, который предоставляется Вашим "
+"переводческим плагином"
+
+#: d:\DEVELOP\Glider/options/options.php:298
+msgid "WPML language switcher"
+msgstr "Переключатель языков WPML "
+
+#: d:\DEVELOP\Glider/options/options.php:300
+msgid ""
+"WPML plugin must be installed. It is not packed with theme. You can find it "
+"here: http://wpml.org/"
+msgstr ""
+"Требуется установить WPML плагин. Он не входит в пакет с темой. Вы можете "
+"найти его здесь: http://wpml.org/"
+
+#: d:\DEVELOP\Glider/options/options.php:307
+msgid "Custom JS"
+msgstr "Custom JS"
+
+#: d:\DEVELOP\Glider/options/options.php:309
+msgid ""
+"Generate your tracking code at Google Analytics Service and insert it here."
+msgstr ""
+"Создайте свой код отслеживания посещаемости сайта на Google Analytics "
+"Service и вставьте его сюда."
+
+#: d:\DEVELOP\Glider/options/options.php:314
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: d:\DEVELOP\Glider/options/options.php:316
+msgid "You may add any other styles for your theme to this field."
+msgstr "В это поле Вы можете добавить любые другие стили для Вашей темы."
+
+#: d:\DEVELOP\Glider/options/options.php:322
+msgid "Top panel Options"
+msgstr "Опции верхней панели"
+
+#: d:\DEVELOP\Glider/options/options.php:332
+msgid "Display top panel"
+msgstr "Отображать верхнюю панель"
+
+#: d:\DEVELOP\Glider/options/options.php:334
+msgid "Enable or disable top slidin"
+msgstr "Включить или выключить скольжение верхней панели"
+
+#: d:\DEVELOP\Glider/options/options.php:341
+msgid "Display login panel"
+msgstr "Отображать панель входа в систему"
+
+#: d:\DEVELOP\Glider/options/options.php:343
+msgid "Enable or disable login form"
+msgstr "Включить или выключить форму входа в систему"
+
+#: d:\DEVELOP\Glider/options/options.php:350
+msgid "Icon for panel text"
+msgstr "Иконка для текста панели"
+
+#: d:\DEVELOP\Glider/options/options.php:352
+msgid "You can select icon here"
+msgstr "Вы можете выбрать иконку здесь"
+
+#: d:\DEVELOP\Glider/options/options.php:358
+msgid "Title top panel"
+msgstr "Заголовок верхней панели"
+
+#: d:\DEVELOP\Glider/options/options.php:360
+msgid "Title of right column"
+msgstr "Заголовок правой колонки"
+
+#: d:\DEVELOP\Glider/options/options.php:366
+msgid "Text for top panel"
+msgstr "Текст для верхней панели"
+
+#: d:\DEVELOP\Glider/options/options.php:368
+msgid "Text, that will displayed in top panel"
+msgstr "Текст, который будет отображаться в верхней панели"
+
+#: d:\DEVELOP\Glider/options/options.php:374
+msgid "Social accounts"
+msgstr "Социальные аккаунты"
+
+#: d:\DEVELOP\Glider/options/options.php:375
+msgid "<p class=\"description\">Type links for social accounts</p>"
+msgstr "<p class=\"description\">Введите ссылки для социальных аккаунтов</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:384
+msgid "Facebook link"
+msgstr "Ссылка на Facebook"
+
+#: d:\DEVELOP\Glider/options/options.php:386
+#: d:\DEVELOP\Glider/options/options.php:409
+#: d:\DEVELOP\Glider/options/options.php:432
+#: d:\DEVELOP\Glider/options/options.php:456
+#: d:\DEVELOP\Glider/options/options.php:480
+#: d:\DEVELOP\Glider/options/options.php:504
+#: d:\DEVELOP\Glider/options/options.php:528
+#: d:\DEVELOP\Glider/options/options.php:552
+#: d:\DEVELOP\Glider/options/options.php:576
+#: d:\DEVELOP\Glider/options/options.php:600
+#: d:\DEVELOP\Glider/options/options.php:624
+#: d:\DEVELOP\Glider/options/options.php:648
+#: d:\DEVELOP\Glider/options/options.php:672
+#: d:\DEVELOP\Glider/options/options.php:696
+msgid "Paste link to your account"
+msgstr "Вставьте ссылку Вашего аккаунта"
+
+#: d:\DEVELOP\Glider/options/options.php:392
+msgid "Facebook icon"
+msgstr "Иконка Facebook"
+
+#: d:\DEVELOP\Glider/options/options.php:394
+#: d:\DEVELOP\Glider/options/options.php:416
+#: d:\DEVELOP\Glider/options/options.php:440
+#: d:\DEVELOP\Glider/options/options.php:464
+#: d:\DEVELOP\Glider/options/options.php:488
+#: d:\DEVELOP\Glider/options/options.php:512
+#: d:\DEVELOP\Glider/options/options.php:536
+#: d:\DEVELOP\Glider/options/options.php:560
+#: d:\DEVELOP\Glider/options/options.php:584
+#: d:\DEVELOP\Glider/options/options.php:608
+#: d:\DEVELOP\Glider/options/options.php:632
+#: d:\DEVELOP\Glider/options/options.php:656
+#: d:\DEVELOP\Glider/options/options.php:680
+#: d:\DEVELOP\Glider/options/options.php:704
+#: d:\DEVELOP\Glider/options/options.php:728
+msgid "Type icon name here"
+msgstr "Введите название иконки здесь"
+
+#: d:\DEVELOP\Glider/options/options.php:400
+#: d:\DEVELOP\Glider/options/options.php:422
+#: d:\DEVELOP\Glider/options/options.php:446
+#: d:\DEVELOP\Glider/options/options.php:470
+#: d:\DEVELOP\Glider/options/options.php:494
+#: d:\DEVELOP\Glider/options/options.php:518
+#: d:\DEVELOP\Glider/options/options.php:542
+#: d:\DEVELOP\Glider/options/options.php:566
+#: d:\DEVELOP\Glider/options/options.php:590
+#: d:\DEVELOP\Glider/options/options.php:614
+#: d:\DEVELOP\Glider/options/options.php:638
+#: d:\DEVELOP\Glider/options/options.php:662
+#: d:\DEVELOP\Glider/options/options.php:686
+#: d:\DEVELOP\Glider/options/options.php:710
+#: d:\DEVELOP\Glider/options/options.php:734
+msgid "Show in header"
+msgstr "Отображать в хедере"
+
+#: d:\DEVELOP\Glider/options/options.php:401
+#: d:\DEVELOP\Glider/options/options.php:423
+#: d:\DEVELOP\Glider/options/options.php:447
+#: d:\DEVELOP\Glider/options/options.php:471
+#: d:\DEVELOP\Glider/options/options.php:495
+#: d:\DEVELOP\Glider/options/options.php:519
+#: d:\DEVELOP\Glider/options/options.php:543
+#: d:\DEVELOP\Glider/options/options.php:567
+#: d:\DEVELOP\Glider/options/options.php:591
+#: d:\DEVELOP\Glider/options/options.php:615
+#: d:\DEVELOP\Glider/options/options.php:639
+#: d:\DEVELOP\Glider/options/options.php:663
+#: d:\DEVELOP\Glider/options/options.php:687
+#: d:\DEVELOP\Glider/options/options.php:711
+#: d:\DEVELOP\Glider/options/options.php:735
+msgid "If checked - will be display in header of theme "
+msgstr "Если отмечено, то будет отображатся в шапке темы"
+
+#: d:\DEVELOP\Glider/options/options.php:408
+msgid "Twitter link"
+msgstr "Ссылка на Twitter"
+
+#: d:\DEVELOP\Glider/options/options.php:415
+msgid "Twitter icon"
+msgstr "Иконка Twitter"
+
+#: d:\DEVELOP\Glider/options/options.php:430
+msgid "Instagram link"
+msgstr "Ссылка на Instagram"
+
+#: d:\DEVELOP\Glider/options/options.php:438
+msgid "Instagram icon"
+msgstr "Иконка Instagram"
+
+#: d:\DEVELOP\Glider/options/options.php:454
+msgid "Vimeo link"
+msgstr "Ссылка на Vimeo"
+
+#: d:\DEVELOP\Glider/options/options.php:462
+msgid "Vimeo icon"
+msgstr "Иконка Vimeo"
+
+#: d:\DEVELOP\Glider/options/options.php:478
+msgid "Last FM link"
+msgstr "Ссылка на Last FM"
+
+#: d:\DEVELOP\Glider/options/options.php:486
+msgid "LastFM icon"
+msgstr "Иконка Last FM"
+
+#: d:\DEVELOP\Glider/options/options.php:502
+msgid "Vkontakte link"
+msgstr "Ссылка на Vkontakte"
+
+#: d:\DEVELOP\Glider/options/options.php:510
+msgid "Vkontakte icon"
+msgstr "Иконка Vkontakte "
+
+#: d:\DEVELOP\Glider/options/options.php:526
+msgid "YouTube"
+msgstr "YouTube"
+
+#: d:\DEVELOP\Glider/options/options.php:534
+msgid "Youtube icon"
+msgstr "Иконка Youtube "
+
+#: d:\DEVELOP\Glider/options/options.php:550
+msgid "Deviantart link"
+msgstr "Ссылка Deviantart"
+
+#: d:\DEVELOP\Glider/options/options.php:558
+msgid "Deviantart"
+msgstr "Deviantart"
+
+#: d:\DEVELOP\Glider/options/options.php:574
+#: d:\DEVELOP\Glider/options/options.php:582
+msgid "LinkedIN"
+msgstr "LinkedIN"
+
+#: d:\DEVELOP\Glider/options/options.php:598
+#: d:\DEVELOP\Glider/options/options.php:606
+msgid "Google +"
+msgstr "Google +"
+
+#: d:\DEVELOP\Glider/options/options.php:622
+msgid "Picasa"
+msgstr "Picasa"
+
+#: d:\DEVELOP\Glider/options/options.php:630
+msgid "Picasa icon"
+msgstr "Иконка Picasa"
+
+#: d:\DEVELOP\Glider/options/options.php:646
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: d:\DEVELOP\Glider/options/options.php:654
+msgid "Pinterest icon"
+msgstr "Иконка Pinterest"
+
+#: d:\DEVELOP\Glider/options/options.php:670
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: d:\DEVELOP\Glider/options/options.php:678
+msgid "WP icon"
+msgstr "Иконка WP "
+
+#: d:\DEVELOP\Glider/options/options.php:694
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: d:\DEVELOP\Glider/options/options.php:702
+msgid "Dropbox icon"
+msgstr "Иконка Dropbox"
+
+#: d:\DEVELOP\Glider/options/options.php:718
+msgid "RSS"
+msgstr "RSS"
+
+#: d:\DEVELOP\Glider/options/options.php:720
+msgid "Paste alternative link to Rss"
+msgstr "Вставьте альтернативную ссылку в Rss"
+
+#: d:\DEVELOP\Glider/options/options.php:726
+msgid "RSS icon"
+msgstr "Иконка RSS"
+
+#: d:\DEVELOP\Glider/options/options.php:743
+msgid "Posts list options"
+msgstr "Настройки списка постов"
+
+#: d:\DEVELOP\Glider/options/options.php:744
+msgid ""
+"<p class=\"description\">Parameters for posts and archives (social share etc)"
+"</p>"
+msgstr ""
+"<p class=\"description\">Параметры для постов и архивных страниц (social "
+"share и т.д.)</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:754
+msgid "Select format for posts displaying"
+msgstr "Выберите формат отображения постов"
+
+#: d:\DEVELOP\Glider/options/options.php:764
+msgid "Social share buttons"
+msgstr "Кнопки Поделиться в соц. сетях"
+
+#: d:\DEVELOP\Glider/options/options.php:766
+msgid "With this option you may activate or deactivate social share buttons."
+msgstr ""
+"С данной опцией Вы можете активировать или деактивировать кнопки Поделиться "
+"в соц. сетях."
+
+#: d:\DEVELOP\Glider/options/options.php:773
+msgid "Custom share code"
+msgstr "Пользовательский код социальных сетей"
+
+#: d:\DEVELOP\Glider/options/options.php:775
+msgid "You may add any other social share buttons to this field."
+msgstr ""
+"Вы можете добавить в это поле любые другие кнопки Поделиться в соц. сетях."
+
+#: d:\DEVELOP\Glider/options/options.php:781
+msgid "Author Info"
+msgstr "Информация об авторе"
+
+#: d:\DEVELOP\Glider/options/options.php:783
+msgid ""
+"This option enables you to insert information about the author of the post."
+msgstr "Эта опция позволяет Вам вставлять информацию об авторе поста."
+
+#: d:\DEVELOP\Glider/options/options.php:790
+msgid "Links in author info"
+msgstr "Ссылки в информации об авторе"
+
+#: d:\DEVELOP\Glider/options/options.php:792
+msgid "Enable or disable additional links in author box"
+msgstr ""
+"Включите или выключите дополнительные ссылки в секции информации об авторе"
+
+#: d:\DEVELOP\Glider/options/options.php:810
+msgid "Thumbnail on inner page"
+msgstr "Миниатюра на внутренней странице"
+
+#: d:\DEVELOP\Glider/options/options.php:812
+msgid "Display featured image on single post"
+msgstr "Отображать изображение поста на единичных постах"
+
+#: d:\DEVELOP\Glider/options/options.php:813
+#: d:\DEVELOP\Glider/options/options.php:841
+#: d:\DEVELOP\Glider/options/options.php:871
+#: d:\DEVELOP\Glider/options/options.php:880
+#: d:\DEVELOP\Glider/options/options.php:901
+#: d:\DEVELOP\Glider/options/options.php:943
+msgid "On"
+msgstr "Вкл."
+
+#: d:\DEVELOP\Glider/options/options.php:813
+#: d:\DEVELOP\Glider/options/options.php:841
+#: d:\DEVELOP\Glider/options/options.php:871
+#: d:\DEVELOP\Glider/options/options.php:880
+#: d:\DEVELOP\Glider/options/options.php:901
+#: d:\DEVELOP\Glider/options/options.php:943
+msgid "Off"
+msgstr "Выкл."
+
+#: d:\DEVELOP\Glider/options/options.php:820
+msgid "Post thumbnail width (in px)"
+msgstr "Ширина миниатюры поста (в пкс)"
+
+#: d:\DEVELOP\Glider/options/options.php:829
+msgid "Post  thumbnail height (in px)"
+msgstr "Высота миниатюры поста (в пкс)"
+
+#: d:\DEVELOP\Glider/options/options.php:838
+msgid "Post info"
+msgstr "Информация о посте"
+
+#: d:\DEVELOP\Glider/options/options.php:840
+msgid ""
+"It is information about the post (time and date of creation, author, "
+"comments on the post)."
+msgstr ""
+"Это информация про пост (время и дата создания, автор, комментарии к посту)."
+
+#: d:\DEVELOP\Glider/options/options.php:850
+msgid "Portfolio Options"
+msgstr "Опции портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:860
+msgid "Portfolio page"
+msgstr "Страница портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:862
+msgid "Please select main portfolio page (for proper urls)"
+msgstr "Выберите главную страницу портфолио (для правильных ссылок)"
+
+#: d:\DEVELOP\Glider/options/options.php:868
+msgid "Items Sorting"
+msgstr "Сортировка элементов"
+
+#: d:\DEVELOP\Glider/options/options.php:869
+msgid ""
+"Disable or enable items sort on portfolio page templates that allow that"
+msgstr ""
+"Запретить или разрешить сортировку элементов на шаблонах страниц портфолио, "
+"которые это позволяют"
+
+#: d:\DEVELOP\Glider/options/options.php:877
+msgid "Date in portfolio"
+msgstr "Дата в портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:878
+msgid "Display date in portfolio items?"
+msgstr "Отображать дату в портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:886
+msgid "Portfolio text location"
+msgstr "Размещение текста портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:887
+msgid "Select text layout on inner page"
+msgstr "Выберите тип макета для отдельных страниц"
+
+#: d:\DEVELOP\Glider/options/options.php:898
+msgid "Featured image"
+msgstr "Featured image"
+
+#: d:\DEVELOP\Glider/options/options.php:899
+msgid "Display featured image on inner page?"
+msgstr "Отображать изображение поста на внутренней странице"
+
+#: d:\DEVELOP\Glider/options/options.php:907
+msgid "Portfolio image display"
+msgstr "Отображение изображений в портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:908
+msgid "Display attached images of inner portfolio page as:"
+msgstr "Отображать прикрепленные изображения внутреней страницы портфолио как:"
+
+#: d:\DEVELOP\Glider/options/options.php:919
+msgid "Portfolio Images sort"
+msgstr "Сортировка изображений портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:920
+msgid "Sort images on portfolio single page"
+msgstr "Сортировать изображения в единичном портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:928
+msgid "Portfolio Images order"
+msgstr "Порядок изображений портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:929
+msgid "Order images on portfolio single page"
+msgstr "Порядок изображений в единичном портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:941
+msgid "Block with featured items"
+msgstr "Блок  с последними элементами портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:950
+msgid "Styling Options"
+msgstr "Опции дизайна"
+
+#: d:\DEVELOP\Glider/options/options.php:951
+msgid "<p class=\"description\">Style parameters of body and footer</p>"
+msgstr "<p class=\"description\">Параметры дизайна тела и футера сайта</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:962
+msgid "<p class=\"description\">Main site colors setup</p>"
+msgstr "<p class=\"description\">Главный цвет сайта</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:968
+msgid "Main site color"
+msgstr "Основной цвет сайта"
+
+#: d:\DEVELOP\Glider/options/options.php:969
+msgid "Color of buttons, tabs, links, borders etc."
+msgstr "Цвет кнопок, закладок, ссылок, границ и т.д."
+
+#: d:\DEVELOP\Glider/options/options.php:975
+msgid "Secondary site color"
+msgstr "Второстепенный цвет сайта"
+
+#: d:\DEVELOP\Glider/options/options.php:977
+#: d:\DEVELOP\Glider/options/options.php:985
+msgid "Color of inactive or hovered elements"
+msgstr "Цвет элементов в неактивном состоянии и при наведении мышкой"
+
+#: d:\DEVELOP\Glider/options/options.php:983
+msgid "Color of text"
+msgstr "Цвет текста"
+
+#: d:\DEVELOP\Glider/options/options.php:992
+msgid "Body layout"
+msgstr "Макет сайта"
+
+#: d:\DEVELOP\Glider/options/options.php:1002
+msgid "<p class=\"description\">Boxed site options</p>"
+msgstr "<p class=\"description\">Опции сайта с рамкой</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:1009
+msgid "Content background color"
+msgstr "Цвет фона контента "
+
+#: d:\DEVELOP\Glider/options/options.php:1011
+#: d:\DEVELOP\Glider/options/options.php:1043
+msgid "Select background color."
+msgstr "Выберите цвет фона."
+
+#: d:\DEVELOP\Glider/options/options.php:1017
+msgid "Content background image"
+msgstr "Фоновое изображение контента"
+
+#: d:\DEVELOP\Glider/options/options.php:1019
+#: d:\DEVELOP\Glider/options/options.php:1051
+msgid "Upload your own background image or pattern."
+msgstr "Загрузите Ваше собственное изображение или образец для фона."
+
+#: d:\DEVELOP\Glider/options/options.php:1024
+msgid "Content bg image repeat"
+msgstr "Повтор фонового изображения"
+
+#: d:\DEVELOP\Glider/options/options.php:1026
+#: d:\DEVELOP\Glider/options/options.php:1058
+#: d:\DEVELOP\Glider/options/options.php:1106
+msgid "Select type background image repeat"
+msgstr "Выберите тип повторения фонового изображения"
+
+#: d:\DEVELOP\Glider/options/options.php:1035
+msgid "<p class=\"description\">Not Boxed site options</p>"
+msgstr "<p class=\"description\">Опции сайта без рамки</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:1041
+msgid "Body background color"
+msgstr "Цвет фона сайта"
+
+#: d:\DEVELOP\Glider/options/options.php:1049
+msgid "Custom background image"
+msgstr "Пользовательский цвет фона"
+
+#: d:\DEVELOP\Glider/options/options.php:1065
+msgid "Fixed body background"
+msgstr "Зафиксировать фон сайта"
+
+#: d:\DEVELOP\Glider/options/options.php:1075
+#: d:\DEVELOP\Glider/options/options.php:1183
+msgid "<p class=\"description\">Footer section options</p>"
+msgstr "<p class=\"description\">Опции секции футера</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:1081
+msgid "Footer background color"
+msgstr "Цвет фона футера"
+
+#: d:\DEVELOP\Glider/options/options.php:1083
+msgid "Select footer background color. "
+msgstr "Выберите цвет фона футера."
+
+#: d:\DEVELOP\Glider/options/options.php:1089
+msgid "Footer font color"
+msgstr "Цвет шрифта футера"
+
+#: d:\DEVELOP\Glider/options/options.php:1091
+msgid "Select footer font color."
+msgstr "Выберите цвет шрифта футера."
+
+#: d:\DEVELOP\Glider/options/options.php:1097
+msgid "Custom footer background image"
+msgstr "Пользовательское изображение для фона футера"
+
+#: d:\DEVELOP\Glider/options/options.php:1099
+msgid "Upload your own footer background image or pattern."
+msgstr "Загрузите свое собственное изображение или образец фона футера."
+
+#: d:\DEVELOP\Glider/options/options.php:1104
+msgid "Footer background image repeat"
+msgstr "Повтор фонового изображения в футере"
+
+#: d:\DEVELOP\Glider/options/options.php:1114
+msgid "Contact page options"
+msgstr "Опции страницы контактов"
+
+#: d:\DEVELOP\Glider/options/options.php:1115
+msgid "<p class=\"description\">Contact page options</p>"
+msgstr "<p class=\"description\">Опции страницы контактов</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:1124
+msgid "Custom Form Shortcode"
+msgstr "Пользовательский шоркод контактной формы"
+
+#: d:\DEVELOP\Glider/options/options.php:1126
+msgid "You can paste your shorcode custom form"
+msgstr "Вы можете вставить шорткод вашей контактной формы"
+
+#: d:\DEVELOP\Glider/options/options.php:1132
+msgid "Display map on contacts page?"
+msgstr "Отображать карту на странице контактов"
+
+#: d:\DEVELOP\Glider/options/options.php:1139
+msgid "Height of Google Map (in px)"
+msgstr "Высота Google карты (px):"
+
+#: d:\DEVELOP\Glider/options/options.php:1146
+msgid "Address on Google Map "
+msgstr "Адрес на Google Map"
+
+#: d:\DEVELOP\Glider/options/options.php:1148
+msgid "Fill in your address to be shown on Google map."
+msgstr "Вставьте сюда Ваш адрес для отображения на Google Map."
+
+#: d:\DEVELOP\Glider/options/options.php:1154
+msgid "Form address"
+msgstr "Форма адреса"
+
+#: d:\DEVELOP\Glider/options/options.php:1156
+msgid "Email address for contact form"
+msgstr "Адрес электронной почты для формы контактов"
+
+#: d:\DEVELOP\Glider/options/options.php:1162
+msgid "Type the antispam question"
+msgstr "Антиспам вопрос"
+
+#: d:\DEVELOP\Glider/options/options.php:1164
+#: d:\DEVELOP\Glider/options/options.php:1173
+msgid "Antispam question will protect you from spamers"
+msgstr "Вопрос для защиты от спама обезопасит вас от спамеров"
+
+#: d:\DEVELOP\Glider/options/options.php:1171
+msgid "Type the answer for antispam question"
+msgstr "Введите ответ на антиспамный вопрос"
+
+#: d:\DEVELOP\Glider/options/options.php:1182
+msgid "Footer section options"
+msgstr "Настройки секции футер"
+
+#: d:\DEVELOP\Glider/options/options.php:1193
+msgid "Logotype in footer"
+msgstr "Логотип в футере"
+
+#: d:\DEVELOP\Glider/options/options.php:1195
+msgid "Will be displayed before copyright text"
+msgstr "Будет отображен перед копирайтом"
+
+#: d:\DEVELOP\Glider/options/options.php:1202
+msgid "Show copyright"
+msgstr "Показывать копирайт"
+
+#: d:\DEVELOP\Glider/options/options.php:1204
+msgid "Fill in the copyright text."
+msgstr "Заполнить копирайт"
+
+#: d:\DEVELOP\Glider/options/options.php:1215
+msgid "Layouts Settings"
+msgstr "Настройки макета"
+
+#: d:\DEVELOP\Glider/options/options.php:1216
+msgid "<p class=\"description\">Configure layouts of different pages</p>"
+msgstr "<p class=\"description\">Настройте макеты для разных страниц</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:1221
+msgid "Single pages layout"
+msgstr "Макет отдельных страниц"
+
+#: d:\DEVELOP\Glider/options/options.php:1222
+msgid "Select one type of layout for single pages"
+msgstr "Выберите тип макета для отдельных страниц"
+
+#: d:\DEVELOP\Glider/options/options.php:1237
+msgid "Archive Pages Layout"
+msgstr "Архивные страницы"
+
+#: d:\DEVELOP\Glider/options/options.php:1238
+msgid "Select one type of layout for archive pages"
+msgstr "Выберите тип макета для архивных страниц"
+
+#: d:\DEVELOP\Glider/options/options.php:1253
+msgid "Single posts layout"
+msgstr "Отдельные посты"
+
+#: d:\DEVELOP\Glider/options/options.php:1254
+msgid "Select one type of layout for single posts"
+msgstr "Выберите тип макета для отдельных постов"
+
+#: d:\DEVELOP\Glider/options/options.php:1269
+msgid "Search results layout"
+msgstr "Вывод результатов поиска"
+
+#: d:\DEVELOP\Glider/options/options.php:1270
+msgid "Select one type of layout for search results"
+msgstr "Выберите тип макета для результатов поиска"
+
+#: d:\DEVELOP\Glider/options/options.php:1285
+msgid "404 Page Layout"
+msgstr "Страница 404"
+
+#: d:\DEVELOP\Glider/options/options.php:1286
+msgid "Select one of layouts for 404 page"
+msgstr "Выберите тип макета для страницы 404"
+
+#: d:\DEVELOP\Glider/options/options.php:1302
+msgid "Icons customization"
+msgstr "Настройки иконок"
+
+#: d:\DEVELOP\Glider/options/options.php:1312
+msgid "Default widget icon"
+msgstr "Иконка для виджетов по умолчанию"
+
+#: d:\DEVELOP\Glider/options/options.php:1318
+msgid "Search widget"
+msgstr "Виджет поиска"
+
+#: d:\DEVELOP\Glider/options/options.php:1326
+msgid "Recent posts widget"
+msgstr "Виджет Недавние посты"
+
+#: d:\DEVELOP\Glider/options/options.php:1334
+msgid "RSS Feed subscribe widget"
+msgstr "Виджет подписки на RSS Feed "
+
+#: d:\DEVELOP\Glider/options/options.php:1342
+msgid "Recent from portfolio block"
+msgstr "Последние из блока портфолио"
+
+#: d:\DEVELOP\Glider/options/options.php:1350
+msgid "News from category block"
+msgstr "Новости из блока категорий"
+
+#: d:\DEVELOP\Glider/options/options.php:1358
+msgid "Horizontal Tabs block"
+msgstr "Блок горизонтальных табов"
+
+#: d:\DEVELOP\Glider/options/options.php:1366
+msgid "Styled list widget"
+msgstr "Styled list widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1374
+msgid "Testimonial block"
+msgstr "Блок отзывов"
+
+#: d:\DEVELOP\Glider/options/options.php:1382
+msgid "Partners logo block"
+msgstr "Блок логотипа партнеров"
+
+#: d:\DEVELOP\Glider/options/options.php:1390
+msgid "Flickr widget"
+msgstr "Flickr widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1398
+msgid "Text widget"
+msgstr "Text widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1406
+msgid "VCard widget"
+msgstr "VCard widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1414
+msgid "Tags widget"
+msgstr "Tags widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1422
+msgid "Tabs-posts widget"
+msgstr "Tabs-posts widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1430
+msgid "From portfolio widget"
+msgstr "From portfolio widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1438
+msgid "Twitter widget"
+msgstr "Twitter widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1446
+msgid "Category widget"
+msgstr "Category widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1462
+msgid "oEmbed widget"
+msgstr "oEmbed widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1478
+msgid "Galleries block"
+msgstr "Блок галерей"
+
+#: d:\DEVELOP\Glider/options/options.php:1486
+msgid "About author block"
+msgstr "Блок \"Об авторе\""
+
+#: d:\DEVELOP\Glider/options/options.php:1494
+msgid "My skills block"
+msgstr "Блок \"Мои способности\""
+
+#: d:\DEVELOP\Glider/options/options.php:1502
+msgid "Shortcode block"
+msgstr "Блок шорткодов"
+
+#: d:\DEVELOP\Glider/options/options.php:1510
+msgid "Features list block"
+msgstr "Блок списка возможностей"
+
+#: d:\DEVELOP\Glider/options/options.php:1518
+msgid "Login widget"
+msgstr "Login widget"
+
+#: d:\DEVELOP\Glider/options/options.php:1526
+msgid "Shopping cart widget"
+msgstr "Виджет Корзина"
+
+#: d:\DEVELOP\Glider/options/options.php:1534
+msgid "Accordion block"
+msgstr "Блок Аккордеон"
+
+#: d:\DEVELOP\Glider/options/options.php:1541
+msgid "Map block"
+msgstr "Блок для карты"
+
+#: d:\DEVELOP\Glider/options/options.php:1551
+msgid "Twitter panel options"
+msgstr "Опции Твиттер панели"
+
+#: d:\DEVELOP\Glider/options/options.php:1552
+msgid "<p class=\"description\">Other settings</p>"
+msgstr "<p class=\"description\">Другие настройки</p>"
+
+#: d:\DEVELOP\Glider/options/options.php:1562
+msgid "Display twitter statuses before footer"
+msgstr "Отображать статусы твиттера над футером"
+
+#: d:\DEVELOP\Glider/options/options.php:1570
+msgid "Cache Tweets in every:"
+msgstr "Кешировать твиты каждые:"
+
+#: d:\DEVELOP\Glider/options/options.php:1571
+msgid "In minutes"
+msgstr "В минутах"
+
+#: d:\DEVELOP\Glider/options/options.php:1577
+msgid "Number of latest tweets display:"
+msgstr "Отображать последних твитов:"
+
+#: d:\DEVELOP\Glider/options/options.php:1584
+msgid "Username:"
+msgstr "Имя пользователя:"
+
+#: d:\DEVELOP\Glider/options/options.php:1591
+msgid "Consumer key:"
+msgstr "Consumer key:"
+
+#: d:\DEVELOP\Glider/options/options.php:1598
+msgid "Consumer secret:"
+msgstr "Consumer secret:"
+
+#: d:\DEVELOP\Glider/options/options.php:1604
+msgid "Access token:"
+msgstr "Access token:"
+
+#: d:\DEVELOP\Glider/options/options.php:1611
+msgid "Access token secret:"
+msgstr "Access token secret:"
+
+#: d:\DEVELOP\Glider/options/options.php:1639
+msgid "<strong>Theme URL:</strong> "
+msgstr "<strong>Ссылка темы:</strong> "
+
+#: d:\DEVELOP\Glider/options/options.php:1640
+msgid "<strong>Author:</strong> "
+msgstr "<strong>Автор:</strong> "
+
+#: d:\DEVELOP\Glider/options/options.php:1641
+msgid "<strong>Version:</strong> "
+msgstr "<strong>Версия:</strong> "
+
+#: d:\DEVELOP\Glider/options/options.php:1643
+msgid "<strong>Tags:</strong> "
+msgstr "<strong>Теги:</strong> "
+
+#: d:\DEVELOP\Glider/options/options.php:1649
+msgid "Theme Information"
+msgstr "Информация о теме"
+
+#: d:\DEVELOP\Glider/options/options.php:1657
+msgid "Documentation"
+msgstr "Документация"
+
+#: d:\DEVELOP\Glider/options/options/fields/color_gradient/field_color_gradient.php:28
+#: d:\DEVELOP\Glider/options/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr "С:"
+
+#: d:\DEVELOP\Glider/options/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr "В:"
+
+#: d:\DEVELOP\Glider/options/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr "В:"
+
+#: d:\DEVELOP\Glider/options/options/fields/google_webfonts/field_google_webfonts.php:25
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>"
+msgstr ""
+"Шрифты, указанные ниже, можно свободно использовать как пользовательские "
+"шрифты с <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google "
+"Web Fonts directory</a> zu benutzen"
+
+#: d:\DEVELOP\Glider/options/options/fields/multi_text/field_multi_text.php:40
+#: d:\DEVELOP\Glider/options/options/fields/social/field_social.php:49
+msgid "Add More"
+msgstr "Добавить больше"
+
+#: d:\DEVELOP\Glider/options/options/fields/upload/field_upload.php:30
+msgid "Upload"
+msgstr "Загрузить"
+
+#: d:\DEVELOP\Glider/options/options/fields/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr "Удалить загруженные"
+
+#: d:\DEVELOP\Glider/options/options/validation/color/validation_color.php:13
+msgid "This field must be a valid color value."
+msgstr "В это поле нужно ввести цвет в правильном формате."
+
+#: d:\DEVELOP\Glider/options/options/validation/comma_numeric/validation_comma_numeric.php:13
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr "Введите список цифровых значений, разделенных запятой, для этой опции."
+
+#: d:\DEVELOP\Glider/options/options/validation/date/validation_date.php:13
+msgid "This field must be a valid date."
+msgstr "В это поле нужно ввести дату в правильном формате."
+
+#: d:\DEVELOP\Glider/options/options/validation/email/validation_email.php:13
+msgid "You must provide a valid email for this option."
+msgstr "Введите email в правильном формате."
+
+#: d:\DEVELOP\Glider/options/options/validation/no_html/validation_no_html.php:13
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr "Не вводите HTML данные в это поле, все  HTML теги были удалены."
+
+#: d:\DEVELOP\Glider/options/options/validation/no_special_chars/validation_no_special_chars.php:13
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"Не вводите специальные символы в данное поле, все специальные символы были "
+"удалены."
+
+#: d:\DEVELOP\Glider/options/options/validation/numeric/validation_numeric.php:13
+msgid "You must provide a numerical value for this option."
+msgstr "Введите цифровое значение для этой опции."
+
+#: d:\DEVELOP\Glider/options/options/validation/url/validation_url.php:13
+msgid "You must provide a valid URL for this option."
+msgstr "Введите ссылку для этой опции в правильном формате."
+
+#: d:\DEVELOP\Glider/templates/author-box.php:29
+msgid "All posts"
+msgstr "Все посты"
+
+#: d:\DEVELOP\Glider/templates/author-box.php:30
+#: d:\DEVELOP\Glider/templates/comments.php:98
+msgid "Website"
+msgstr "Вебсайт"
+
+#: d:\DEVELOP\Glider/templates/author-box.php:31
+msgid "Email"
+msgstr "Email"
+
+#: d:\DEVELOP\Glider/templates/comments.php:11
+msgid "Says"
+msgstr "Говорит"
+
+#: d:\DEVELOP\Glider/templates/comments.php:11
+#, php-format
+msgid "<cite class=\"fn\">%s "
+msgstr "<cite class=\"fn\">%s "
+
+#: d:\DEVELOP\Glider/templates/comments.php:13
+#, php-format
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: d:\DEVELOP\Glider/templates/comments.php:16
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: d:\DEVELOP\Glider/templates/comments.php:24
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий нужно отредактировать."
+
+#: d:\DEVELOP\Glider/templates/comments.php:40
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Этот комментарий защищен паролем. Чтобы просмотреть его, введите пароль."
+
+#: d:\DEVELOP\Glider/templates/comments.php:78
+msgid "Leave a Reply"
+msgstr "Оставить ответ"
+
+#: d:\DEVELOP\Glider/templates/comments.php:78
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить ответ на %s"
+
+#: d:\DEVELOP\Glider/templates/comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Вы должны<a href=\"%s\">войти в систему</a> чтобы оставить комментарий."
+
+#: d:\DEVELOP\Glider/templates/comments.php:90
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Зарегистрирован как <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: d:\DEVELOP\Glider/templates/comments.php:91
+msgid "Log out of this account"
+msgstr "Выйти из этого аккаунта"
+
+#: d:\DEVELOP\Glider/templates/comments.php:91
+msgid "Log out &raquo;"
+msgstr "Выйти из системы &raquo;"
+
+#: d:\DEVELOP\Glider/templates/comments.php:96
+msgid "Name"
+msgstr "Имя"
+
+#: d:\DEVELOP\Glider/templates/comments.php:96
+#: d:\DEVELOP\Glider/templates/comments.php:97
+msgid " (required)"
+msgstr " (требуется)"
+
+#: d:\DEVELOP\Glider/templates/comments.php:97
+msgid "Email (will not be published)"
+msgstr "Email (не будет опубликован)"
+
+#: d:\DEVELOP\Glider/templates/comments.php:105
+msgid "Submit Comment"
+msgstr "Оставить комментарий"
+
+#: d:\DEVELOP\Glider/templates/content-single.php:52
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: d:\DEVELOP\Glider/templates/dopinfo.php:7
+#: d:\DEVELOP\Glider/templates/entry-meta-mini.php:4
+#: d:\DEVELOP\Glider/templates/entry-meta.php:5
+msgid "By"
+msgstr "От"
+
+#: d:\DEVELOP\Glider/templates/dopinfo.php:9
+#: d:\DEVELOP\Glider/templates/entry-meta.php:11
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: d:\DEVELOP\Glider/templates/entry-meta-mini.php:6
+#: d:\DEVELOP\Glider/templates/entry-meta.php:7
+msgid "in"
+msgstr "в"
+
+#: d:\DEVELOP\Glider/templates/entry-meta.php:11
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: d:\DEVELOP\Glider/templates/portfolio-item.php:77
+msgid "Read details"
+msgstr "Читать детали"
+
+#: d:\DEVELOP\Glider/templates/searchform.php:3
+#: d:\DEVELOP\Glider/templates/searchform.php:4
+msgid "Search"
+msgstr "Искать"
+
+#: d:\DEVELOP\Glider/templates/section-panel.php:22
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: d:\DEVELOP\Glider/templates/top-forum.php:12
+#: d:\DEVELOP\Glider/templates/top-page.php:12
+msgid "Latest Posts"
+msgstr "Последние публикации"
+
+#: d:\DEVELOP\Glider/templates/top-forum.php:22
+#: d:\DEVELOP\Glider/templates/top-page.php:22
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Ежедневные архивы %s"
+
+#: d:\DEVELOP\Glider/templates/top-forum.php:24
+#: d:\DEVELOP\Glider/templates/top-page.php:24
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Ежемесячные архивы: %s"
+
+#: d:\DEVELOP\Glider/templates/top-forum.php:26
+#: d:\DEVELOP\Glider/templates/top-page.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Ежегодные архивы: %s"
+
+#: d:\DEVELOP\Glider/templates/top-forum.php:34
+#: d:\DEVELOP\Glider/templates/top-page.php:34
+msgid "Author Archives:"
+msgstr "Архивы автора:"
+
+#: d:\DEVELOP\Glider/templates/top-forum.php:37
+#: d:\DEVELOP\Glider/templates/top-page.php:37
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архивы автора: %s"
+
+#: d:\DEVELOP\Glider/templates/top-forum.php:44
+#: d:\DEVELOP\Glider/templates/top-page.php:44
+#, php-format
+msgid "Search Results for %s"
+msgstr "Результаты поиска для %s"
+
+#: d:\DEVELOP\Glider/templates/top-forum.php:46
+#: d:\DEVELOP\Glider/templates/top-page.php:46
+msgid "File Not Found"
+msgstr "Файл не найден"
+
+#~ msgid "Type your email!"
+#~ msgstr "Введите Ваш email!"
+
+#, fuzzy
+#~ msgid "Email is incorect"
+#~ msgstr "Email неверный"
+
+#~ msgid "Type the subject!"
+#~ msgstr "Введите тему!"
+
+#~ msgid "Type the message!"
+#~ msgstr "Наберите сообщение!"
+
+#~ msgid "Type the answer!"
+#~ msgstr "Введите ответ!"
+
+#~ msgid "Wrong  answer!"
+#~ msgstr "Ответ неверный!"
+
+#~ msgid "A Section added by hook"
+#~ msgstr "A Section added by hook"
+
+#~ msgid ""
+#~ "<p class=\"description\">This is a section created by adding a filter to "
+#~ "the sections array, great to allow child themes, to add/remove sections "
+#~ "from the options.</p>"
+#~ msgstr ""
+#~ "<p class=\"description\">Эта секция создана добавлением фильтрации в "
+#~ "матрицу секции, позволяет использовать дочерние темы, добавлять/удалять "
+#~ "секции в опциях.</p>"
+
+#~ msgid ""
+#~ "<p>Panel to configure theme options. If you have any questions or "
+#~ "suggestions, please write on our forum <a href=\"http://support.crumina."
+#~ "net\"/>support.crumina.net</a></p>"
+#~ msgstr ""
+#~ "<p>Панель конфигурации опций темы. Если у Вас есть вопросы или "
+#~ "предложения, пожалуста, пишите об этом на нашем форуме <a href=\"http://"
+#~ "support.crumina.net\"/>support.crumina.net</a></p>"
+
+#~ msgid "Theme Options"
+#~ msgstr "Опции темы"
+
+#~ msgid "Crumina Theme Options panel"
+#~ msgstr "Панель опций темы Crumina"
+
+#~ msgid "Fixed header"
+#~ msgstr "Зафиксирванный хедер"
+
+#~ msgid "Enable or disable fixed header"
+#~ msgstr "Включить или выключить зафиксированный хедер"
+
+#~ msgid "Header variant"
+#~ msgstr "Вариант хедера"
+
+#~ msgid "Responsive mode"
+#~ msgstr "Responsive mode"
+
+#~ msgid "Enable or disable Responsive CSS"
+#~ msgstr "Включить или выключить Responsive CSS"
+
+#, fuzzy
+#~ msgid "Subtitle top panel"
+#~ msgstr "Заголовок верхней панели"
+
+#, fuzzy
+#~ msgid "Subtitle of right column"
+#~ msgstr "Подзаголовок правой колонки"
+
+#~ msgid "Flickr link"
+#~ msgstr "Ссылка на Flickr"
+
+#~ msgid "Dribble link"
+#~ msgstr "Ссылка на Dribble"
+
+#~ msgid "Microsoft ID"
+#~ msgstr "Microsoft ID"
+
+#~ msgid "Sorting items"
+#~ msgstr "Сортировка"
+
+#~ msgid "Portfolio columns"
+#~ msgstr "Колонки портфолио"
+
+#~ msgid "Portfolio style"
+#~ msgstr "Стиль портфолио"
+
+#~ msgid "Square"
+#~ msgstr "квадратный"
+
+#~ msgid "Round"
+#~ msgstr "круглый"
+
+#~ msgid "Images order"
+#~ msgstr "Порядок отображения изображений"
+
+#~ msgid "Unlimited sidebars"
+#~ msgstr "Неограниченные сайдбары"
+
+#~ msgid "<p class=\"description\">Add or delete your own sidebars</p>"
+#~ msgstr ""
+#~ "<p class=\"description\">Добавьте или удалите Ваши собственные сайдбары</"
+#~ "p>"
+
+#~ msgid "You may create a custom sidebar to be displayed on a single page."
+#~ msgstr ""
+#~ "Вы можете создать пользовательский сайдбар для отображения на отдельной "
+#~ "странице."
+
+#~ msgid "Site color version"
+#~ msgstr "Цветовая схема"
+
+#~ msgid "Main menu alignment"
+#~ msgstr "Выравнивание главного меню"
+
+#~ msgid "Text on top"
+#~ msgstr "Текст вверху страницы"
+
+#~ msgid "This is the description field, again good for additional info."
+#~ msgstr "Это поле для описания, дополнительной информации."
+
+#~ msgid "Adress in contact page"
+#~ msgstr "Адрес на странице контактов"
+
+#~ msgid "In Hours"
+#~ msgstr "В часах"
+
+#~ msgid "News row box"
+#~ msgstr "Блок ряда новостей"
+
+#~ msgid "Typography"
+#~ msgstr "Типография"
+
+#, fuzzy
+#~ msgid "Body main font size"
+#~ msgstr "Размер шрифта кнопки:"
+
+#, fuzzy
+#~ msgid "Select font size."
+#~ msgstr "Выберите цвет шрифта футера."
+
+#, fuzzy
+#~ msgid "Body main font color"
+#~ msgstr "Цвет фона сайта"
+
+#, fuzzy
+#~ msgid "Select font color."
+#~ msgstr "Выберите цвет шрифта футера."
+
+#~ msgid "H1 elements style"
+#~ msgstr "Стиль элемента H1"
+
+#~ msgid "H1 elements color"
+#~ msgstr "Цвет элемента H1"
+
+#~ msgid "Click on field to choose color"
+#~ msgstr "Кликните по полю, чтобы выбрать цвет"
+
+#~ msgid "H2 elements style"
+#~ msgstr "Стиль элемента H2"
+
+#~ msgid "H2 elements color"
+#~ msgstr "Цвет элемента H2"
+
+#~ msgid "H3 elements style"
+#~ msgstr "Стиль элемента H3"
+
+#~ msgid "H3 elements color"
+#~ msgstr "Цвет элемента H3"
+
+#~ msgid "H4 elements style"
+#~ msgstr "Стиль элемента H4"
+
+#~ msgid "H4 elements color"
+#~ msgstr "Цвет элемента H4"
+
+#~ msgid "H5 elements style"
+#~ msgstr "Стиль элемента H5"
+
+#~ msgid "H5 elements color"
+#~ msgstr "Цвет элемента H5"
+
+#~ msgid "H6 elements style"
+#~ msgstr "Стиль элемента H6"
+
+#~ msgid "H6 elements color"
+#~ msgstr "Цвет элемента H6"
+
+#~ msgid ""
+#~ "<span id=\"footer-thankyou\">Options Panel created using the <a href=\""
+#~ msgstr ""
+#~ "<span id=\"footer-thankyou\">Панель опций созданная используя <a href=\""
+
+#~ msgid "Import / Export"
+#~ msgstr "Импорт / Экспорт"
+
+#~ msgid "Dev Mode Info"
+#~ msgstr "Dev Mode Info"
+
+#~ msgid "Are you sure? Resetting will loose all custom values."
+#~ msgstr ""
+#~ "Вы уверенны? Сброс может вызвать потерю всех пользовательских значений."
+
+#~ msgid "Reset to Defaults"
+#~ msgstr "Вернуться к стандартным настройкам"
+
+#~ msgid "<strong>Settings Imported!</strong>"
+#~ msgstr "<strong>Настройки импортированны!</strong>"
+
+#~ msgid "<strong>Settings Saved!</strong>"
+#~ msgstr "<strong>Настройки сохранены!</strong>"
+
+#~ msgid "<strong>Settings have changed!, you should save them!</strong>"
+#~ msgstr "<strong>Настройки изменились! Сохраните их!</strong>"
+
+#~ msgid "<strong><span></span> error(s) were found!</strong>"
+#~ msgstr "<strong><span></span> Найдены ошибки!</strong>"
+
+#~ msgid "<strong><span></span> warning(s) were found!</strong>"
+#~ msgstr "<strong><span></span> Найдено предупреджение(я)!</strong>"
+
+#~ msgid "Import / Export Options"
+#~ msgstr "Опции импорта/ экспорта"
+
+#~ msgid "Import Options"
+#~ msgstr "Опции импорта"
+
+#, fuzzy
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Загрузите резервную копию файлов и нажмите Импорт для восстановления "
+#~ "опций сайта из резервной копии."
+
+#, fuzzy
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "Введите ссылку к опциям другого сайта и нажмите Импорт для загрузки опций "
+#~ "с этого сайта."
+
+#~ msgid "Import"
+#~ msgstr "Импорт"
+
+#~ msgid ""
+#~ "WARNING! This will overwrite any existing options, please proceed with "
+#~ "caution!"
+#~ msgstr "Внимание! Существующие опции будут заменены, продолжайте осторожно!"
+
+#~ msgid "Export Options"
+#~ msgstr "Опции экспорта"
+
+#, fuzzy
+#~ msgid ""
+#~ "Here you can copy/download your themes current option settings. Keep this "
+#~ "safe as you can use it as a backup should anything go wrong. Or you can "
+#~ "use it to restore your settings on this site (or any other site). You "
+#~ "also have the handy option to copy the link to yours sites settings. "
+#~ "Which you can then use to duplicate on another site"
+#~ msgstr ""
+#~ "Вы можете копировать/ загружать сюда текущие настройки темы. Сохраните их "
+#~ "для использования в качестве резервной копии в случае форсмажора. Или же "
+#~ "Вы можете использовать их для восстановления настроек на этом сайте (или "
+#~ "на любом другом). Вы также можете воспользоваться опцией копировать "
+#~ "ссылки в настройки Вашего сайта вручную, которые Вы сможете в дальнейшем "
+#~ "использовать как копию для другого сайта "
+
+#~ msgid "Browse"
+#~ msgstr "Загрузить"
+
+#~ msgid "Continue reading &#187;"
+#~ msgstr "Продолжить чтение &#187;"
+
+#~ msgid "Custom Types"
+#~ msgstr "Пользовательские типы"
+
+#~ msgid "Custom Post"
+#~ msgstr "Пользовательские публикации"
+
+#~ msgid "Add New Custom Type"
+#~ msgstr "Добавить новый пользовательский тип "
+
+#~ msgid "Edit"
+#~ msgstr "Редактировать"
+
+#~ msgid "Edit Post Types"
+#~ msgstr "Редактировать типы публикаций"
+
+#~ msgid "New Post Type"
+#~ msgstr "Новый тип публикаций"
+
+#~ msgid "View Post Type"
+#~ msgstr "Просмотреть тип публикации"
+
+#~ msgid "Search Post Type"
+#~ msgstr "Искать тип публикации"
+
+#~ msgid "Nothing found in the Database."
+#~ msgstr "В базе данных ничего не найдено."
+
+#~ msgid "Nothing found in Trash"
+#~ msgstr "В корзине ничего не найдено"
+
+#~ msgid "This is the example custom post type"
+#~ msgstr "Это образец типа пользовательской пибликации"
+
+#~ msgid "Custom Categories"
+#~ msgstr "Пользовательские категории"
+
+#~ msgid "Custom Category"
+#~ msgstr "Пользовательская категория"
+
+#~ msgid "Search Custom Categories"
+#~ msgstr "Искать пользовательские категории"
+
+#~ msgid "All Custom Categories"
+#~ msgstr "Все пользовательские категории"
+
+#~ msgid "Parent Custom Category"
+#~ msgstr "Родительская пользовательская категория"
+
+#~ msgid "Parent Custom Category:"
+#~ msgstr "Родительская пользовательская категория:"
+
+#~ msgid "Update Custom Category"
+#~ msgstr "Обновить пользовательскую категорию"
+
+#~ msgid "Add New Custom Category"
+#~ msgstr "Добавить новую пользовательскую категорию"
+
+#~ msgid "New Custom Category Name"
+#~ msgstr "Заголовок новой пользовательской категории"
+
+#~ msgid "Custom Tags"
+#~ msgstr "Пользовательские теги"
+
+#~ msgid "Custom Tag"
+#~ msgstr "Пользовательский тег"
+
+#~ msgid "Search Custom Tags"
+#~ msgstr "Искать пользовательские теги"
+
+#~ msgid "All Custom Tags"
+#~ msgstr "Все пользовательские теги"
+
+#~ msgid "Parent Custom Tag"
+#~ msgstr "Родительский пользовательский тег"
+
+#~ msgid "Parent Custom Tag:"
+#~ msgstr "Родительский пользовательский тег:"
+
+#~ msgid "Edit Custom Tag"
+#~ msgstr "Редактировать пользовательский тег"
+
+#~ msgid "Update Custom Tag"
+#~ msgstr "Обновить пользовательский тег"
+
+#~ msgid "Add New Custom Tag"
+#~ msgstr "Добавить новый пользовательский тег"
+
+#~ msgid "New Custom Tag Name"
+#~ msgstr "Название нового пользовательского тега"
+
+#~ msgid "Before footer"
+#~ msgstr "Перед футером"
+
+#~ msgid "Box: Clickable promo block"
+#~ msgstr "Box: Clickable promo block"
+
+#~ msgid "Promo block with link itself"
+#~ msgstr "Промо блок как ссылка"
+
+#~ msgid "Hover image"
+#~ msgstr "Изображение при наведении"
+
+#~ msgid "Text block with title + desc + butt"
+#~ msgstr "Блок текста с заголовком + описанием + кнопкой"
+
+#~ msgid "Button URL:"
+#~ msgstr "Кнопка URL:"
+
+#~ msgid "Button Height:"
+#~ msgstr "Высота кнопки:"
+
+#~ msgid "Button Width:"
+#~ msgstr "Ширина кнопки:"
+
+#~ msgid "Button Font Size:"
+#~ msgstr "Размер шрифта кнопки:"
+
+#~ msgid "Display Features with icons"
+#~ msgstr "Отображать функции с иконкой"
+
+#~ msgid "Full width?"
+#~ msgstr "В полную ширину?"
+
+#~ msgid "Display news/articles row from some category"
+#~ msgstr "Отображать ряд новостей/ публикаций из некоторый категорий"
+
+#~ msgid "Title for Tab:"
+#~ msgstr "Заголовок для таба"
+
+#~ msgid "Content for Tab:"
+#~ msgstr "Содержание для таба"
+
+#~ msgid "A list of categories, with slightly tweaked output."
+#~ msgstr "Список категорий с измененным содержанием."
+
+#~ msgid "Theme: Categories list with icons"
+#~ msgstr "Тема: Список категорий с иконками"
+
+#~ msgid "Show post counts"
+#~ msgstr "Показывать количество постов"
+
+#~ msgid "Theme: Recent Posts"
+#~ msgstr "Тема: Последние публикации"
+
+#, fuzzy
+#~ msgid "Display stiky articles from some category"
+#~ msgstr "Отображать прикрепленные новости из нескольких категорий"
+
+#~ msgid "Tags block with subtitle"
+#~ msgstr "Блок тегов с подзаголовком"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Visual"
+#~ msgstr "Визуальный"
+
+#~ msgid ""
+#~ "Displays arbritrary text of HTML just like the standard Text widget, but "
+#~ "this one does not include the header bar and wrapper style - just a blank "
+#~ "canvas for content"
+#~ msgstr ""
+#~ "Displays arbitrary text of HTML just like the standard Text widget, but "
+#~ "this one does not include the header bar and wrapper style - just a blank "
+#~ "canvas for content"
+
+#~ msgid "Text/HTML"
+#~ msgstr "Текст/HTML"
+
+#, fuzzy
+#~ msgid "Text block with tiltle + desc + butt"
+#~ msgstr "Блок текста с заголовком + описанием + кнопкой"
+
+#~ msgid "<h2>Thank you for your message!</h2>"
+#~ msgstr "<h2>Спасибо за сообщение!</h2>"
+
+#~ msgid "<h2>Unknown error, during message sending.</h2>"
+#~ msgstr "<h2>Неизвестная ошибка при отправке сообщения.</h2>"
+
+#~ msgid "<h2>Wrong answer for the question!</h2>"
+#~ msgstr "<h2>Неверный ответ на вопрос!</h2>"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Topic:"
+#~ msgstr "Тема:"
+
+#~ msgid "Comment"
+#~ msgstr "Комментарий"
+
+#~ msgid "Send message"
+#~ msgstr "Отправить сообщение"
+
+#~ msgid "E-mail:"
+#~ msgstr "E-mail:"
+
+#~ msgid "Anti-spam question:"
+#~ msgstr "Антиспамный вопрос:"
+
+#~ msgid "Cool Facebook Widget"
+#~ msgstr "Cool Facebook Widget"
+
+#~ msgid "Border color:"
+#~ msgstr "Цвет границ:"
+
+#~ msgid "Cr: Tabbed Widget"
+#~ msgstr "Cr: Tabbed Widget"
+
+#~ msgid "Date & Thumb"
+#~ msgstr "Дата и миниатюра"
+
+#~ msgid "Leave a comment"
+#~ msgstr "Оставить комментарий"
+
+#~ msgid "full page"
+#~ msgstr "Страница полностью"
+
+#~ msgid "%1$s"
+#~ msgstr "%1$s"
+
+#~ msgid "login on site"
+#~ msgstr "Войти в систему"
+
+#~ msgid "Enter your login"
+#~ msgstr "Введите Ваше имя пользователя"
+
+#~ msgid "Enter your password"
+#~ msgstr "Введите пароль"
+
+#~ msgid "Registration"
+#~ msgstr "Регистрация"
+
+#~ msgid "Press ENTER to login"
+#~ msgstr "Нажмите ENTER для входа в систему"
+
+#~ msgid "%s ago"
+#~ msgstr "%s тому назад"
+
+#~ msgid "Y/m/d"
+#~ msgstr "Y/m/d"
+
+#~ msgid "Top panel subtitle"
+#~ msgstr "Подзаголовок верхней панели"
+
+#~ msgid "Display a login area and \"My Account\" links in the sidebar."
+#~ msgstr "Отображать в сайдбаре область  login и ссылки на \"My Account\". "
+
+#~ msgid "WooCommerce Login"
+#~ msgstr "Логин для WooCommerce"
+
+#~ msgid "Customer Login"
+#~ msgstr "Customer Login"
+
+#~ msgid "Welcome %s"
+#~ msgstr "Добро пожаловать %s"
+
+#~ msgid "My account"
+#~ msgstr "Мой аккаунт"
+
+#~ msgid "Change my password"
+#~ msgstr "Изменить мой пароль"
+
+#~ msgid "Logout"
+#~ msgstr "Выйти из системы"
+
+#~ msgid "Username or email"
+#~ msgstr "Имя пользователя или email"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "Login &rarr;"
+#~ msgstr "Login &rarr;"
+
+#~ msgid "Lost password?"
+#~ msgstr "Забыли пароль?"
+
+#~ msgid "Logged out title:"
+#~ msgstr "Заголовок при выходе из системы:"
+
+#~ msgid "Logged in title:"
+#~ msgstr "Заголовок при входе в систему:"
+
+#~ msgid "Latest tweets"
+#~ msgstr "Последние твиты"
+
+#~ msgid "Default subtitle"
+#~ msgstr "Подзаголовок по умолчанию"
+
+#~ msgid "seconds"
+#~ msgstr "секунд"

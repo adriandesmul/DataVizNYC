@@ -1,0 +1,684 @@
+/*
+Theme Name:         Glider
+Theme URI:          http://themes.crumina.net/glider/
+Description:        Adds support for languages written in a Right To Left (RTL) direction.
+Version:            1.0
+Author:             Crumina
+Author URI:         http://crumina.net/
+
+License:            GPL v2
+License URI:        http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+
+body {
+	text-align:right;
+	unicode-bidi:embed;
+	direction:rtl;
+}
+
+.flex-viewport {
+	direction:ltr;
+}
+
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
+	direction: inherit;
+}
+
+div,
+#header .menu > li,
+.breadcrumbs,
+.to-action-block .action-button {
+	text-align: right;
+}
+
+ul.accordion > li > div.title h6,
+.wpb_prev_slide {
+	text-align:left;
+}
+
+#logo,
+#header .menu > li,
+.lang-sel,
+#header .phone .icon-mobile:before,
+.al-left .button, 
+.al-left .icon,
+.service-icon,
+.crum_features_list .blue-circle,
+.widget-title .icon,
+.menu-item-wrap:before,
+.widget_crum_widget_v_accordion .five.columns,
+.icon-format,
+.recent-block .folio-item,
+.tabs dd, 
+.tabs li,
+.quoteCite .avatar,
+.mini-news .entry-thumb,
+.tweets-author img,
+.about_author_widget .avatar,
+.css3slide .entry-thumb,
+.css3slide-block,
+.feedb-follows .item img,
+#feedburner_subscribe .columns,
+.columns.copyr,
+.foot-logo,
+#flickr > a,
+.item .description .icon,
+.small-logo,
+.follow-widget .icon,
+.tags-widget a,
+.widget_crum_galleries_widget .columns,
+.widget_crum_news_row .columns,
+article.post header time,
+.post-social > div,
+.post-social,
+.author-photo,
+.twitter-row .ten.columns,
+.filter li,
+.top-panel-inner .three,
+.widget_wp_sidebarlogin .avatar_container, 
+#sidebar-login .avatar_container,
+.flickr_badge_image,
+.team-photo,
+.main-slider-block .item {
+	float:right;
+}
+
+#header.horizontal .form-search,
+#header .phone,
+#header .soc-head-icons,
+.about_author_widget .additional-links,
+.pricing-table .period,
+.footer-menu,
+#drop-top-menu,
+#page-title .page-nav,
+.page-nav a {
+	float:left;
+}
+
+.pricing-table .item-price,
+.al-center,
+.feature-box.al-center .feat-block-content {
+	text-align:center;
+}
+
+/* -----------------------------------------
+   Portfolio
+----------------------------------------- */
+
+.project .eight.columns,
+.woocommerce ul.cart_list li dl dt, 
+.woocommerce-page ul.cart_list li dl dt, 
+.woocommerce ul.product_list_widget li dl dt, 
+.woocommerce-page ul.product_list_widget li dl dt  {
+	float:right;
+}
+
+div.bbp-template-notice,
+.bbp-topics-front ul.super-sticky, 
+.bbp-topics ul.super-sticky, 
+.bbp-topics ul.sticky, 
+.bbp-forum-content ul.sticky {
+	border-left:1px solid #f1f1f1 !important;
+	border-right:3px solid #F37A6B !important;
+}
+
+.contacts-widget p {
+	padding-left:0;
+	padding-right:36px;
+}
+
+.contacts-widget .adress,
+.contacts-widget .phone,
+.contacts-widget .mail,
+.contacts-widget .other {
+	background-position:100% 50%;
+}
+
+.widget_wp_sidebarlogin .avatar_container img, 
+#sidebar-login .avatar_container img {
+	margin-right:0;
+	margin-left:8px;
+}
+
+.woocommerce ul.cart_list li dl.variation {
+	overflow:hidden;
+	border:none;
+}
+
+.widget_shopping_cart li img {
+	float:right;
+	margin-left:10px;
+	margin-right:0;
+}
+
+/* -----------------------------------------
+   Blog
+----------------------------------------- */
+
+article.post header time,
+.post-social > div {
+	margin-right:0;
+	margin-left:20px;
+}
+
+.share-icons a,
+.flickr_badge_image {
+	margin-right:0;
+	margin-left:10px;
+}
+
+.header-wrap {
+	border-left:0;
+	border-right:1px solid #efefef;
+	padding-left:0;
+	padding-right:20px;
+}
+
+.page-nav a:before {
+	line-height:18px;
+}
+
+.author-photo {
+	margin-right:0;
+	margin-left:24px;
+}
+
+
+/* -----------------------------------------
+   Shortcodes, Widgets and Main Layout
+----------------------------------------- */
+
+div.alert-box a.close {
+	right:auto;
+	left:4px;
+}
+
+.wpb_tabs .wpb_tabs_nav li,
+ul.products li.product,
+.type-product .images {
+	float:right !important;
+}
+
+.wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon, 
+.wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon {
+	left:.7em !important;
+	right:auto !important;
+	top:1em !important;
+}
+
+div.alert-box {
+	border-left:1px solid #f1f1f1 !important;
+	border-right:3px solid #f1f1f1 !important;
+}
+
+div.alert-box.alert {
+	border-left:1px solid #f1f1f1 !important;
+	border-right:3px solid #F37A6B !important;
+}
+
+div.alert-box.success{
+	border-left:1px solid #f1f1f1 !important;
+	border-right:3px solid #4E9A21 !important;
+}
+
+.wpb_toggle_title_active, #content h4.wpb_toggle_title_active,
+.wpb_toggle, #content h4.wpb_toggle {
+	background-position:100% 50% !important;
+}
+
+.wpb_toggle, #content h4.wpb_toggle,
+.wpb_toggle_content {
+	padding-right:28px !important;
+	padding-left:0 !important;
+}
+
+ul.products li.product.first {
+	clear:right !important;
+}
+
+pre {
+	padding-right:4px;
+}
+
+.team-photo {
+	margin-left:15px;
+	margin-right:0;
+}
+
+.team-desc {
+	margin-right:6px;
+	margin-left:0;
+}
+
+.team-desc:after {
+	left:auto;
+	right:-6px;
+}
+
+.team-desc:before {
+	left:auto;
+	right:-8px;
+	border-right:none;
+	border-left:8px solid #F1F1F1;
+}
+
+.team-desc:after {
+	border-left:8px solid #FAFAFA;
+	border-right:none;
+}
+
+.commentform-inner input {
+	margin-left:2.8%;
+	margin-right:0;
+}
+
+.prod-image-wrap img {
+	width:100%;
+}
+
+.commentform-inner input:last-child {
+	margin-left:0;
+}
+
+.wpb_tour .wpb_tour_tabs_wrapper .wpb_tab {
+	padding-left:0 !important;
+	padding-right:21.7391px !important;
+}
+
+.wpb_tour .wpb_tabs_nav {
+	float:right !important;
+}
+
+.wpb_tour_next_prev_nav {
+    margin-left:0  !important;
+    margin-right: 31.6667%  !important;
+    padding-left:0 !important;
+    padding-right: 21.7391px  !important;
+}
+
+.tags-widget a {
+	margin-left:3px;
+	margin-right:0;
+}
+
+.twitter-row .icon {
+	float:right;
+	margin-right:0;
+	margin-left:15px;
+}
+
+a.back {
+	margin-right:0;
+	margin-left:18px;
+}
+
+.twitter-row .ten.columns {
+	padding-right:65px;
+}
+
+.twitter-row .icon {
+	position:absolute;
+	right:10px;
+}
+
+.flex-direction-nav > li {
+	float:left;
+}
+
+textarea {
+	padding-left:6px;
+	padding-right:14px;
+}
+
+.widget #searchform .s-field {
+	padding-left:40px;
+	padding-right:14px;
+}
+
+.widget #searchform .s-submit, #searchsubmit {
+	right:auto;
+	left:10px;
+}
+
+.shop-category-widget li .styled-icon, .category-widget li .styled-icon {
+	left:auto;
+	right:5px;
+}
+
+.shop-category-widget li a .category-border, .category-widget li a .category-border {
+	margin-right:35px;
+	margin-left:0;
+	border-left:0;
+	border-right:1px solid #fff;
+	border-right:1px solid rgba(255, 255, 255, 0.3);
+}
+
+.follow-widget .icon {
+	padding-left:0;
+	padding-right:7px;
+}
+
+.follow-widget .number,
+.follow-widget .text {
+	margin-right:45px;
+	margin-left:0;
+}
+
+#header #drop-top-menu .menu > li > ul > li:first-child:after, 
+#header #drop-top-menu .menu > li > ul > li:first-child:before {
+	left:auto;
+	right:40px;
+}
+
+#header #drop-top-menu .menu > li > .menu-item-wrap {
+	padding-left:40px;
+	padding-right:0;
+}
+
+.small-logo {
+	margin-right:2%;
+	margin-left:0;
+}
+
+.item .description {
+	padding-left:30px;
+	padding-right:0;
+}
+
+.footer-menu li {
+	padding-left:0;
+	padding-right:15px;
+}
+
+#feedburner_subscribe input[type="submit"] {
+	margin:0 -2px 0 0;
+	border-radius:2px 0 0 2px;
+}
+
+.feedb-follows .item img {
+	margin-right:0;
+	margin-left:13px;
+}
+
+.css3slide-block:hover {
+    margin-right:0;
+    margin-left:25%;
+}
+
+.pricing-table .mini-desc {
+	text-align:right;
+	margin-right:-67px;
+	margin-left:0;
+	right:50%;
+	left:auto;
+}
+
+.css3slide-block .post-desc {
+	left:auto;
+	right:100%;
+}
+
+.about_author_widget .text {
+	margin:10px 145px 20px 0;
+	padding:5px 35px 0 0;
+	border-left:0;
+	border-right:1px solid #E7E7E7;
+}
+
+.tabs dd i, 
+.tabs li i {
+	padding-right:0;
+	padding-left:15px;
+}
+
+.tabs.horisontal dd, 
+.tabs.horisontal li {
+	border-left:1px solid #ECEFF0;
+	border-right:none;
+}
+
+.tabs.horisontal dd:first-child, 
+.tabs.horisontal li:first-child {
+	border-right:1px solid #ECEFF0;
+}
+
+.skills_widget .skill-percent {
+	padding-right:40px;
+	padding-left:0;
+}
+
+.quoteCite .quote-author,
+.quoteCite .quote-sub {
+	margin-left:0;
+	margin-right:70px;
+}
+
+.quote {
+	padding:0 60px 0 20px;
+}
+
+.styled-widget-list > li [class*="icon-"] {
+	padding-left:10px;
+	padding-right:0;
+	margin-right:0;
+	margin-left:10px;
+	border-right:none;
+	border-left:1px solid #fff;
+	border-left:1px solid rgba(255, 255, 255, 0.25);
+}
+
+.clients-item {
+	text-align:center;
+}
+
+.clients-item {
+	border-left:1px solid #E7E8EA;
+	border-right:none;
+}
+
+.crum_stiky_news .blocks-text {
+	border-left:1px solid #ededed;
+	border-right:none;
+}
+
+.clients-list .clients-item:first-child {
+	border-right:1px solid #E7E8EA;
+}
+
+.quote:before {
+	left:auto;
+	right:0;
+}
+
+.recent-block .tabs.horisontal dd a, 
+.recent-block .tabs.horisontal li a {
+	padding-left:40px;
+	padding-right:0;
+}
+
+.small-news .ovh {
+	border-left:none;
+	border-right:1px solid #efefef;
+	padding-left:0;
+	padding-right:20px;
+}
+
+.tabs.vertical dd a .tab-title, 
+.tabs.vertical li a .tab-title {
+	margin-right:0;
+	margin-left:32px;
+	padding-right:0;
+	padding-left:15px;
+	border-right:0;
+	border-left:1px solid #fff;
+	border-left:1px solid rgba(255, 255, 255, 0.25);
+	text-align:left;
+}
+
+.list-blocks {
+	right:auto;
+	left:0;
+}
+
+.extra-links a:before {
+	text-align:left;
+}
+
+.extra-links {
+	border-left:none;
+	border-right:1px solid;
+	margin-left:0;
+	margin-right:24px;
+	padding-left:0;
+	padding-right:25px;
+}
+
+.icon-format,
+.mini-news .entry-thumb,
+.tweets-author img,
+.foot-logo {
+	margin-right:0;
+	margin-left:20px;
+}
+
+.tabs.vertical dd a .icon, 
+.tabs.vertical li a .icon {
+	right:auto;
+	left:10px;
+}
+
+.styled-list li {
+	background:url(assets/img/arrow-list-rtl.png) no-repeat 100% 4px;
+	padding-right:20px;
+}
+
+.crum_features_list .blue-circle {
+	margin-right:0;
+	margin-left:20px;
+}
+
+.to-action-block .action-button .icon {
+	float:right;
+	margin:-2px 0 0 10px;
+}
+
+.feature-box.al-left .icon {
+	margin-right:0;
+	margin-left:25px;
+}
+
+#open-top-panel {
+	left:auto;
+	right:35%;
+}
+
+.breadcrumbs {
+	padding-left:0;
+	padding-right:2px;
+}
+
+.row .offset-by-one.top-text {
+	margin-left:0;
+	margin-right:8.33333%;
+}
+
+.lang-sel {
+	margin-left:0;
+	margin-right:46px;
+}
+
+#header .phone {
+	margin-right:0;
+	margin-left:70px;
+}
+
+#header .phone .icon-mobile:before {
+	margin-left:8px;
+	margin-right:0;
+}
+
+#header .soc-head-icons {
+	padding-right:0;
+	padding-left:0;
+	margin:33px 0 0 25px;
+}
+
+#header #searchform .s-submit {
+	position:relative;
+	top:auto;
+	width:38px;
+	padding:11px 25px 11px 0;
+	border-left:none;
+	border-right:1px solid #eeeeee;
+	background-position:0 60%;
+	right:auto;
+}
+
+#header .s-field {
+	right:auto;
+	left:44px;
+}
+
+.has-submenu > span .link-text {
+	padding-right:0;
+	padding-left:15px;
+	background-position:0 50%;
+}
+
+.menu-item-wrap:before,
+.soc-icons a,
+.widget-title .icon {
+	margin-right:0;
+	margin-left:15px;
+}
+
+#header .menu > li:last-child > ul {
+	right:auto;
+	left:0;
+}
+
+#header .menu > li ul li .link-text {
+	padding-left:10px;
+	padding-right:35px;
+}
+
+.item .description .sl-item-title {
+	left:0;
+}
+
+
+@media (max-width: 767px){ 
+	#logo,
+	#header .soc-head-icons,
+	#header .menu  > li,
+	.recent-block .folio-item{
+		float:none;
+	}
+	
+	ul.tabs-content.contained > li {
+		width:auto;
+	}
+	
+	#header .columns,
+	#header .soc-head-icons{
+		text-align:center;
+	}
+	
+	#header .soc-head-icons {
+		margin:20px 0;
+	}
+	
+	.css3slide-block .post-desc {
+		float:right;
+		padding-left:0;
+		padding-right:20px;
+		right:0;
+	}
+	
+	#header .menu > li ul li .link-text {
+		padding-left:10px;
+		padding-right:35px;
+	}
+	
+}

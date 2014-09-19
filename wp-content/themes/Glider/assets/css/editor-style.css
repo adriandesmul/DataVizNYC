@@ -1,0 +1,115 @@
+html .mceContentBody {
+	font-size: 100%;
+}
+/* -----------------------------------------------------
+        Main site fonts
+------------------------------------------------------*/
+
+body, div, dl, dt, dd, ul, ol, li, pre, form, p, blockquote, th, td {
+    font: 400 14px/20px "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    color: #828a93;
+}
+
+h1,
+h2,
+h4,
+h5,
+h3
+
+{
+    font-family: 'Source Sans Pro', "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+h4,
+h4.wpb_toggle,
+h5,
+h6
+{
+    font-family:  "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+h1 {
+    font-size: 26px;
+    margin: 0;
+    line-height: 1.3;
+    font-weight: 600;
+}
+h1.page-title {
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 21px;
+    margin: 0;
+    line-height: 1.3;
+    font-weight: 300;
+}
+
+h3 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 19px;
+}
+
+h4 {
+    margin-top: 0;
+    font-weight: 300;
+    font-size: 19px;
+}
+
+h4.wpb_toggle {
+    font-weight: 400;
+    font-size: 14px;
+    min-height: 21px;
+}
+h5 {
+    font-size: 18px;
+    margin: 0;
+    line-height: 1.2;
+    font-style: italic;
+    font-weight: 400;
+}
+h6 {
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 1.3;
+}
+
+.entry-content {
+    line-height:1.6;
+}
+
+::-webkit-input-placeholder {
+    font-style: normal;
+    font-weight: 400;
+}
+:-moz-placeholder {
+    font-style: normal;
+    font-weight: 400;
+}
+
+hr {
+    border: solid #f1f1f1;
+    border-width: 1px 0 0;
+    clear: both;
+    margin: 10px 0 10px;
+    height: 0;
+}
+
+table thead tr th, table tfoot tr td {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+
+h3 span, a
+{
+    color: #26bdef;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    color: #494949;
+}
+
